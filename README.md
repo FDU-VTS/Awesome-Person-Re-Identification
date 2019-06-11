@@ -103,9 +103,6 @@ This section only includes the last ten papers since 2018 in [arXiv.org](arXiv.o
 - <a name=""></a> Pyramidal Person Re-IDentification via Multi-Loss Dynamic Training (**CVPR2019**) [[paper](https://arxiv.org/pdf/1810.12193.pdf)]
 - <a name=""></a> Interaction-and-Aggregation Network for Person Re-identification (**CVPR2019**) 
 - <a name=""></a> Skin-based identification from multispectral image data using CNNs (**CVPR2019**) 
-- <a name=""></a> Feature Distance Adversarial Network for Vehicle Re-Identification (**CVPR2019**) 
-- <a name=""></a> Part-regularized Near-Duplicate Vehicle Re-identification (**CVPR2019**) [[paper](http://cvteam.net/papers/2019_CVPR_Part-regularized%20Near-duplicate%20Vehicle%20Re-identification.pdf)]
-- <a name=""></a> CityFlow: A City-Scale Benchmark for Multi-Target Multi-Camera Vehicle Tracking and Re-Identification (**CVPR2019**) [[paper](https://arxiv.org/pdf/1903.09254.pdf)]
 
 
 
