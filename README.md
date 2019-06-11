@@ -67,9 +67,11 @@ This section only includes the last ten papers since 2018 in [arXiv.org](arXiv.o
 
   
 ### Survey
+- <a name=""></a> A Survey of Open-World Person Re-identification (**T-CSVT2019**) [[paper](https://ieeexplore.ieee.org/abstract/document/8640834)]
 - <a name=""></a> Person Re-identification: Past, Present and Future (**arXiv2016**) [[arxiv](https://arxiv.org/abs/1610.02984)]
 - <a name=""></a> A survey of approaches and trends in person re-identification (**Image and Vision Computing 2014**) [[paper](https://www.sciencedirect.com/science/article/pii/S0262885614000262)]
 - <a name=""></a> Appearance Descriptors for Person Re-identification: a Comprehensive Review (**arXiv2013**) [[arxiv](https://arxiv.org/abs/1307.574)]
+
 
 ### 2019
 - <a name=""></a> Multi-level Similarity Perception Network for Person Re-identification (**TOMM2019**) [[paper](https://dl.acm.org/citation.cfm?id=3309881)]
