@@ -22,7 +22,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
 ## Datasets
 
 | Dataset                   | Release time     | # identities | # cameras   | # images |
-|---------------------------|------------------|--------------|-------------|----------|----------------------------|-----------|------------|--------------------|--------------------------|
+|---------------------------|------------------|--------------|-------------|----------|
 | [VIPeR](https://vision.soe.ucsc.edu/node/178)                     | 2007             | 632          | 2           | 1264     | 
 | [ETH1,2,3](http://homepages.dcc.ufmg.br/~william/datasets.html)                  | 2007             | 85, 35, 28     | 1           | 8580     | 
 | [QMUL iLIDS](http://www.eecs.qmul.ac.uk/~jason/data/i-LIDS_Pedestrian.tgz)                | 2009             | 119          | 2           | 476      | 
