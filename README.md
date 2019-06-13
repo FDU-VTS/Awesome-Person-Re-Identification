@@ -64,7 +64,7 @@ This section only includes the last ten papers since 2018 in [arXiv.org](arXiv.o
 - <a name=""></a> Group Re-Identification with Multi-grained Matching and Integration [[paper](https://arxiv.org/abs/1905.07108)]
 - <a name=""></a> HPILN: A feature learning framework for cross-modality person re-identification [[paper](https://arxiv.org/abs/1906.03142)]
 - <a name=""></a> PAC-GAN: An Effective Pose Augmentation Scheme for Unsupervised Cross-View Person Re-identification [[paper](https://arxiv.org/pdf/1906.01792.pdf)]
-- <a name=""></a> Towards better Validity: Dispersion based Clustering for Unsupervised Person Re-identification [[paper](https://arxiv.org/abs/1906.01308)]
+- <a name=""></a> Towards better Validity: Dispersion based Clustering for Unsupervised Person Re-identification [[paper](https://arxiv.org/abs/1906.01308)] [[github](https://github.com/gddingcs/Dispersion-based-Clustering)]
 
 
   
