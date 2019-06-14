@@ -59,6 +59,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
 ### arXiv papers
 This section only includes the last ten papers since 2018 in [arXiv.org](arXiv.org). Previous papers will be hidden using  ```<!--...-->```. If you want to view them, please open the [raw file](https://raw.githubusercontent.com/gjy3035/Awesome-Crowd-Counting/master/README.md) to read the source code. Note that all unpublished arXiv papers are not included into [the leaderboard of performance](#performance).
 
+- <a name=""></a> CDPM: Convolutional Deformable Part Models for Person Re-identification [[paper](https://arxiv.org/abs/1906.04976)]
 - <a name=""></a> Rethinking Person Re-Identification with Confidence [[paper](https://arxiv.org/abs/1906.04692)]
 - <a name=""></a> Omni-Scale Feature Learning for Person Re-Identification [[paper](https://arxiv.org/abs/1905.00953)]
 - <a name=""></a> Group Re-Identification with Multi-grained Matching and Integration [[paper](https://arxiv.org/abs/1905.07108)]
@@ -140,6 +141,24 @@ This section only includes the last ten papers since 2018 in [arXiv.org](arXiv.o
 - <a name=""></a> Unsupervised Cross-Dataset Person Re-Identification by Transfer Learning of Spatial-Temporal Patterns (**CVPR2018**) [[paper](http://openaccess.thecvf.com/content_cvpr_2018/html/Lv_Unsupervised_Cross-Dataset_Person_CVPR_2018_paper.html)] [[arxiv](https://arxiv.org/abs/1803.07293)]
 - <a name=""></a> Resource Aware Person Re-Identification Across Multiple Resolutions (**CVPR2018**) [[paper](http://openaccess.thecvf.com/content_cvpr_2018/html/Wang_Resource_Aware_Person_CVPR_2018_paper.html)] [[arxiv](https://arxiv.org/abs/1805.08805)]
 - <a name="DeformGAN"></a> **[DeformGAN]** Deformable GANs for Pose-Based Human Image Generation (**CVPR2018**) [[paper](http://openaccess.thecvf.com/content_cvpr_2018/html/Siarohin_Deformable_GANs_for_CVPR_2018_paper.html)] [[arxiv](https://arxiv.org/abs/1801.00055)]
+- <a name=""></a> Maximum Margin Metric Learning Over Discriminative Nullspace for Person Re-identification (**ECCV2018**) [[paper](http://openaccess.thecvf.com/content_ECCV_2018/html/T_M_Feroz_Ali_Maximum_Margin_Metric_ECCV_2018_paper.html)]
+- <a name=""></a> RCAA: Relational Context-Aware Agents for Person Search (**ECCV2018**) [[paper](http://openaccess.thecvf.com/content_ECCV_2018/html/Xiaojun_Chang_RCAA_Relational_Context-Aware_ECCV_2018_paper.html)]
+- <a name=""></a> Generalizing A Person Retrieval Model Hetero- and Homogeneously (**ECCV2018**) [[paper](http://openaccess.thecvf.com/content_ECCV_2018/html/Zhun_Zhong_Generalizing_A_Person_ECCV_2018_paper.html)]
+- <a name=""></a> Domain Adaptation through Synthesis for Unsupervised Person Re-identification (**ECCV2018**) [[paper](http://openaccess.thecvf.com/content_ECCV_2018/html/Slawomir_Bak_Domain_Adaptation_through_ECCV_2018_paper.html)]
+- <a name=""></a> Robust Anchor Embedding for Unsupervised Video Person Re-Identification in the Wild (**ECCV2018**) [[paper](http://openaccess.thecvf.com/content_ECCV_2018/html/Mang_YE_Robust_Anchor_Embedding_ECCV_2018_paper.html)]
+- <a name=""></a> Person Search in Videos with One Portrait Through Visual and Temporal Links (**ECCV2018**) [[paper](http://openaccess.thecvf.com/content_ECCV_2018/html/Qingqiu_Huang_Person_Search_in_ECCV_2018_paper.html)]
+- <a name=""></a> Person Search by Multi-Scale Matching (**ECCV2018**) [[paper](http://openaccess.thecvf.com/content_ECCV_2018/html/Xu_Lan_Person_Search_by_ECCV_2018_paper.html)]
+- <a name=""></a> Person Re-identification with Deep Similarity-Guided Graph Neural Network (**ECCV2018**) [[paper](http://openaccess.thecvf.com/content_ECCV_2018/html/Yantao_Shen_Person_Re-identification_with_ECCV_2018_paper.html)]
+- <a name="PN-GAN"></a> **[PN-GAN]** Pose-Normalized Image Generation for Person Re-identification (**ECCV2018**) [[paper](http://openaccess.thecvf.com/content_ECCV_2018/html/Xuelin_Qian_Pose-Normalized_Image_Generation_ECCV_2018_paper.html)]
+- <a name=""></a> Unsupervised Person Re-identification by Deep Learning Tracklet Association (**ECCV2018**)(Oral) [[paper](http://openaccess.thecvf.com/content_ECCV_2018/html/Minxian_Li_Unsupervised_Person_Re-identification_ECCV_2018_paper.html)]
+- <a name=""></a> Person Search via A Mask-guided Two-stream CNN Model (**ECCV2018**) [[paper](http://openaccess.thecvf.com/content_ECCV_2018/html/Di_Chen_Person_Search_via_ECCV_2018_paper.html)]
+- <a name=""></a> Improving Deep Visual Representation for Person Re-identification by Global and Local Image-language Association (**ECCV2018**) [[paper](http://openaccess.thecvf.com/content_ECCV_2018/html/Dapeng_Chen_Improving_Deep_Visual_ECCV_2018_paper.html)]
+- <a name=""></a> Hard-Aware Point-to-Set Deep Metric for Person Re-identification (**ECCV2018**) [[paper](http://openaccess.thecvf.com/content_ECCV_2018/html/Rui_Yu_Hard-Aware_Point-to-Set_Deep_ECCV_2018_paper.html)]
+- <a name=""></a> Reinforced Temporal Attention and Split-Rate Transfer for Depth-Based Person Re-Identification (**ECCV2018**) [[paper](http://openaccess.thecvf.com/content_ECCV_2018/html/Nikolaos_Karianakis_Reinforced_Temporal_Attention_ECCV_2018_paper.html)]
+- <a name=""></a> Adversarial Open-World Person Re-Identification (**ECCV2018**) [[paper](http://openaccess.thecvf.com/content_ECCV_2018/html/Xiang_Li_Adversarial_Open-World_Person_ECCV_2018_paper.html)]
+- <a name="Part-aligned"></a> **[Part-aligned]** Part-Aligned Bilinear Representations for Person Re-Identification (**ECCV2018**) [[paper](http://openaccess.thecvf.com/content_ECCV_2018/html/Yumin_Suh_Part-Aligned_Bilinear_Representations_ECCV_2018_paper.html)]
+- <a name="Mancs"></a> **[Mancs]** Mancs: A Multi-task Attentional Network with Curriculum Sampling for Person Re-identification (**ECCV2018**) [[paper](http://openaccess.thecvf.com/content_ECCV_2018/html/Cheng_Wang_Mancs_A_Multi-task_ECCV_2018_paper.html)]
+- <a name="PCB"></a> **[PCB]** Beyond Part Models: Person Retrieval with Refined Part Pooling (and A Strong Convolutional Baseline) (**ECCV2018**) [[paper](http://openaccess.thecvf.com/content_ECCV_2018/html/Yifan_Sun_Beyond_Part_Models_ECCV_2018_paper.html)]
 
 ### 2017
 - <a name=""></a> Cross-View Asymmetric Metric Learning for Unsupervised Person Re-Identification (**ICCV2017**) [[paper](http://openaccess.thecvf.com/content_iccv_2017/html/Yu_Cross-View_Asymmetric_Metric_ICCV_2017_paper.html)] [[arxiv](https://arxiv.org/abs/1708.08062)]
@@ -182,12 +201,16 @@ The section is being continually updated. Note that some values have superscript
 | 2017--CVPR | [SSM](#SSM)                | 82.2 | 68.8 |
 | 2017--ICCV | [SVDNet](#SVDNet)          | 82.3 | 62.1 |
 | 2017--ICCV| [LSRO](#LSRO)               | 84.0 | 66.1 |
-| 2018--T-CSVT| [PAN](#PAN)               | 82.8 | 63.4 |
-| 2018--CVPR| [HA-CNN](#HA-CNN)           | 91.2 | 75.7 |
-| 2018--CVPR| [MLFN](#MLFN)               | 90.0 | 74.3 |
 | 2018--CVPR| [DeformGAN](#DeformGAN)     | 80.6 | 61.3 |
-| 2018--TIP| [Multi-pseudo](#Multi-pseudo)      | 85.8 | 67.5 |
+| 2018--T-CSVT| [PAN](#PAN)               | 82.8 | 63.4 |
+| 2018--TIP| [Multi-pseudo](#Multi-pseudo)| 85.8 | 67.5 |
 | 2018--CVPR| [PT](#PT)                   | 87.7 | 68.9 |
+| 2018--ECCV| [PN-GAN](#PN-GAN)           | 89.4 | 72.6 |
+| 2018--CVPR| [MLFN](#MLFN)               | 90.0 | 74.3 |
+| 2018--CVPR| [HA-CNN](#HA-CNN)           | 91.2 | 75.7 |
+| 2018--ECCV| [Part-aligned](#Part-aligned) | 91.7 | 79.6 |
+| 2018--ECCV| [PCB](#PCB)                 | 93.8 | 81.6 |
+| 2018--ECCV| [Mancs](#Mancs)             | 93.1 | 82.3 |
 | 2019--CVPR| [DG-Net](#DG-Net)           | **94.8** | **86.0** |
 
 
