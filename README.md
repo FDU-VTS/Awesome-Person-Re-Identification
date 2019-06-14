@@ -108,6 +108,18 @@ This section only includes the last ten papers since 2018 in [arXiv.org](arXiv.o
 - <a name=""></a> DeepFashion2: A Versatile Benchmark for Detection, Pose Estimation, Segmentation and Re-Identification of Clothing Images (**CVPR2019**) [[paper](http://openaccess.thecvf.com/content_CVPR_2019/html/Ge_DeepFashion2_A_Versatile_Benchmark_for_Detection_Pose_Estimation_Segmentation_and_CVPR_2019_paper.html)] 
 - <a name=""></a> AANet: Attribute Attention Network for Person Re-Identifications (**CVPR2019**) [[paper](http://openaccess.thecvf.com/content_CVPR_2019/html/Tay_AANet_Attribute_Attention_Network_for_Person_Re-Identifications_CVPR_2019_paper.html)] 
 - <a name=""></a> Re-Identification Supervised Texture Generation (**CVPR2019**) [[paper](http://openaccess.thecvf.com/content_CVPR_2019/html/Wang_Re-Identification_Supervised_Texture_Generation_CVPR_2019_paper.html)] [[arxiv](https://arxiv.org/pdf/1904.03385.pdf)]
+- <a name=""></a> Spatial-Temporal Person Re-identification (**AAAI2019**) [[arxiv](https://arxiv.org/abs/1812.03282)]
+- <a name=""></a> Learning Resolution-Invariant Deep Representations for Person Re-Identification (**AAAI2019**)(**Oral**) 
+- <a name=""></a> HSME: Hypersphere Manifold Embedding for Visible Thermal Person Re-identification (**AAAI2019**)
+- <a name=""></a> Horizontal Pyramid Matching for Person Re-identification (**AAAI2019**) [[arxiv](https://arxiv.org/abs/1804.05275)]
+- <a name=""></a> STA: Spatial-Temporal Attention for Large-Scale Video-based Person Re-Identification (**AAAI2019**) [[arxiv](https://arxiv.org/abs/1811.04129)]
+- <a name=""></a> Multi-scale 3D Convolution Network for Video Based Person Re-Identification (**AAAI2019**) [[arxiv](https://arxiv.org/abs/1811.07468)]
+- <a name=""></a> A Bottom-Up Clustering Approach to Unsupervised Person Re-identification (**AAAI2019**) 
+- <a name=""></a> Backbone Can Not be Trained at Once: Rolling Back to Pre-trained Network for Person
+Re-Identification (**AAAI2019**) [[arxiv](https://arxiv.org/abs/1901.06140)] [[github](https://github.com/youngminPIL/rollback)]
+- <a name=""></a> Spatial and Temporal Mutual Promotion for Video-based Person Re-identification (**AAAI2019**) [[arxiv](https://arxiv.org/abs/1812.10305)]
+- <a name=""></a> Learning Incremental Triplet Margin for Person Re-identification (**AAAI2019**) [[arxiv](https://arxiv.org/abs/1812.06576)]
+- <a name=""></a> Learning A Key-Value Memory Co-Attention Matching Network for Person ReIdentification (**AAAI2019**) 
 
 ### 2018
 - <a name="Multi-pseudo"></a> **[Multi-pseudo]** Multi-pseudo regularized label for generated data in person re-identification (**TIP2018**) [[paper](https://ieeexplore.ieee.org/abstract/document/8485730/)] [[arxiv](https://arxiv.org/pdf/1801.06742.pdf)]
