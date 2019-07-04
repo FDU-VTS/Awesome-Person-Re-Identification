@@ -71,9 +71,12 @@ This section only includes the last ten papers since 2018 in [arXiv.org](arXiv.o
   
 ### Survey
 - <a name=""></a> A Survey of Open-World Person Re-identification (**T-CSVT2019**) [[paper](https://ieeexplore.ieee.org/abstract/document/8640834)]
+- <a name=""></a> A systematic evaluation and benchmark for person re-identification: Features, metrics, and datasets (**T-PAMI2016**) [[arxiv](https://arxiv.org/abs/1605.09653)]
 - <a name=""></a> Person Re-identification: Past, Present and Future (**arXiv2016**) [[arxiv](https://arxiv.org/abs/1610.02984)]
 - <a name=""></a> A survey of approaches and trends in person re-identification (**Image and Vision Computing 2014**) [[paper](https://www.sciencedirect.com/science/article/pii/S0262885614000262)]
 - <a name=""></a> Appearance Descriptors for Person Re-identification: a Comprehensive Review (**arXiv2013**) [[arxiv](https://arxiv.org/abs/1307.574)]
+- <a name=""></a> People reidentification in surveillance and forensics: A survey (**CSUR2013**) [[paper](https://dl.acm.org/citation.cfm?id=2543596)]
+- <a name=""></a> Intelligent multi-camera video surveillance: A review (**PR Letters2013**) [[paper](https://www.sciencedirect.com/science/article/pii/S016786551200219X)]
 
 
 ### 2019
@@ -114,7 +117,7 @@ This section only includes the last ten papers since 2018 in [arXiv.org](arXiv.o
 - <a name=""></a> Horizontal Pyramid Matching for Person Re-identification (**AAAI2019**) [[arxiv](https://arxiv.org/abs/1804.05275)]
 - <a name=""></a> STA: Spatial-Temporal Attention for Large-Scale Video-based Person Re-Identification (**AAAI2019**) [[arxiv](https://arxiv.org/abs/1811.04129)]
 - <a name=""></a> Multi-scale 3D Convolution Network for Video Based Person Re-Identification (**AAAI2019**) [[arxiv](https://arxiv.org/abs/1811.07468)]
-- <a name=""></a> A Bottom-Up Clustering Approach to Unsupervised Person Re-identification (**AAAI2019**) 
+- <a name=""></a> A Bottom-Up Clustering Approach to Unsupervised Person Re-identification (**AAAI2019**) (**Oral**) [[paper](https://xuanyidong.com/pdf/AAAI19-vana.pdf)] [[github](https://github.com/vana77/Bottom-up-Clustering-Person-Re-identification)]
 - <a name=""></a> Backbone Can Not be Trained at Once: Rolling Back to Pre-trained Network for Person
 Re-Identification (**AAAI2019**) [[arxiv](https://arxiv.org/abs/1901.06140)] [[github](https://github.com/youngminPIL/rollback)]
 - <a name=""></a> Spatial and Temporal Mutual Promotion for Video-based Person Re-identification (**AAAI2019**) [[arxiv](https://arxiv.org/abs/1812.10305)]
