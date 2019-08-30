@@ -80,6 +80,8 @@ This section only includes the last ten papers since 2018 in [arXiv.org](arXiv.o
 
 
 ### 2019
+- <a name=""></a> Unsupervised Tracklet Person Re-Identification (**T-PAMI2019**) [[paper](https://ieeexplore.ieee.org/abstract/document/8658110)] 
+- <a name="AlignedReID++"></a>  **[AlignedReID++]**  AlignedReID++: Dynamically matching local information for person re-identification (**PR2019**) [[paper](https://www.sciencedirect.com/science/article/pii/S0031320319302031)]
 - <a name=""></a> Multi-level Similarity Perception Network for Person Re-identification (**TOMM2019**) [[paper](https://dl.acm.org/citation.cfm?id=3309881)]
 - <a name=""></a> Discriminative Representation Learning for Person Re-identification via Multi-loss Training (**JVCIR2019**) [[paper](https://www.sciencedirect.com/science/article/pii/S1047320319301749)]
 - <a name="DG-Net"></a> **[DG-Net]** Joint Discriminative and Generative Learning for Person Re-identification (**CVPR2019**)(**Oral**) [[paper](http://openaccess.thecvf.com/content_CVPR_2019/html/Zheng_Joint_Discriminative_and_Generative_Learning_for_Person_Re-Identification_CVPR_2019_paper.html)] [[arxiv](https://arxiv.org/pdf/1904.07223.pdf)]
@@ -123,6 +125,10 @@ Re-Identification (**AAAI2019**) [[arxiv](https://arxiv.org/abs/1901.06140)] [[g
 - <a name=""></a> Spatial and Temporal Mutual Promotion for Video-based Person Re-identification (**AAAI2019**) [[arxiv](https://arxiv.org/abs/1812.10305)]
 - <a name=""></a> Learning Incremental Triplet Margin for Person Re-identification (**AAAI2019**) [[arxiv](https://arxiv.org/abs/1812.06576)]
 - <a name=""></a> Learning A Key-Value Memory Co-Attention Matching Network for Person ReIdentification (**AAAI2019**) 
+- <a name="ABD-Net"></a> **[ABD-Net]** ABD-Net: Attentive but Diverse Person Re-Identification (**ICCV2019**)(**Oral**) [[github](https://github.com/TAMU-VITA/ABD-Net)] [[arxiv](https://arxiv.org/abs/1908.01114)]
+- <a name=""></a> A Novel Unsupervised Camera-aware Domain Adaptation Framework for Person Re-identification (**ICCV2019**) (**Oral**) [[arxiv](https://arxiv.org/abs/1904.03425)]
+- <a name="advPattern"></a> **[advPattern]** advPattern: Physical-World Attacks on Deep Person Re-Identification via Adversarially Transformable Patterns (**ICCV2019**) (**Oral**) [[arxiv](https://arxiv.org/abs/1908.09327)]
+- <a name=""></a> Self-similarity Grouping: A Simple Unsupervised Cross Domain Adaptation Approach for Person Re-identification (**ICCV2019**) (**Oral**) [[arxiv](https://arxiv.org/abs/1811.10144)]
 
 ### 2018
 - <a name="Multi-pseudo"></a> **[Multi-pseudo]** Multi-pseudo regularized label for generated data in person re-identification (**TIP2018**) [[paper](https://ieeexplore.ieee.org/abstract/document/8485730/)] [[arxiv](https://arxiv.org/pdf/1801.06742.pdf)]
@@ -226,6 +232,7 @@ The section is being continually updated. Note that some values have superscript
 | 2018--ECCV| [Part-aligned](#Part-aligned) | 91.7 | 79.6 |
 | 2018--ECCV| [PCB](#PCB)                 | 93.8 | 81.6 |
 | 2018--ECCV| [Mancs](#Mancs)             | 93.1 | 82.3 |
-| 2019--CVPR| [DG-Net](#DG-Net)           | **94.8** | **86.0** |
+| 2019--PR| [AlignedReID++](#AlignedReID++)   | 92.8 | **89.4** |
+| 2019--CVPR| [DG-Net](#DG-Net)           | **94.8** | 86.0 |
 
 
