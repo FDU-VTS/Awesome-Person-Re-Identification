@@ -242,7 +242,6 @@ The section is being continually updated. Note that some values have superscript
 | 2018--CVPR| [HA-CNN](#HA-CNN)           | 91.2 | 75.7 |
 | 2018--ECCV| [Part-aligned](#Part-aligned) | 91.7 | 79.6 |
 | 2018--ECCV| [Mancs](#Mancs)             | 93.1 | 82.3 |
-
 | 2018--ACMMM| [MGN](#MGN)             | 95.7 | 86.9 |
 | 2019--PR| [AlignedReID++](#AlignedReID++)   | 91.0 | 77.6 |
 | 2019--CVPR| [VPM](#VPM)           | 93.0 | 80.8 |
