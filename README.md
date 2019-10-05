@@ -100,6 +100,7 @@ This section only includes the last ten papers since 2018 in [arXiv.org](arXiv.o
 
 ### 2019
 
+- <a name=""></a>  Learning Disentangled Representation for Robust Person Re-identification (**NeurIPS2019**) 
 - <a name="AlignedReID++"></a>  **[AlignedReID++]**  AlignedReID++: Dynamically matching local information for person re-identification (**PR2019**) [[paper](https://www.sciencedirect.com/science/article/pii/S0031320319302031)]
 - <a name="MSP-CNN"></a> **[MSP-CNN]** Multi-level Similarity Perception Network for Person Re-identification (**TOMM2019**) [[paper](https://dl.acm.org/citation.cfm?id=3309881)]
 - <a name=""></a> Discriminative Representation Learning for Person Re-identification via Multi-loss Training (**JVCIR2019**) [[paper](https://www.sciencedirect.com/science/article/pii/S1047320319301749)]
@@ -127,7 +128,7 @@ This section only includes the last ten papers since 2018 in [arXiv.org](arXiv.o
 - <a name=""></a> DeepFashion2: A Versatile Benchmark for Detection, Pose Estimation, Segmentation and Re-Identification of Clothing Images (**CVPR2019**) [[paper](http://openaccess.thecvf.com/content_CVPR_2019/html/Ge_DeepFashion2_A_Versatile_Benchmark_for_Detection_Pose_Estimation_Segmentation_and_CVPR_2019_paper.html)] 
 - <a name="AANe"></a> **[AANe]** AANet: Attribute Attention Network for Person Re-Identifications (**CVPR2019**) [[paper](http://openaccess.thecvf.com/content_CVPR_2019/html/Tay_AANet_Attribute_Attention_Network_for_Person_Re-Identifications_CVPR_2019_paper.html)] 
 - <a name=""></a> Re-Identification Supervised Texture Generation (**CVPR2019**) [[paper](http://openaccess.thecvf.com/content_CVPR_2019/html/Wang_Re-Identification_Supervised_Texture_Generation_CVPR_2019_paper.html)] [[arxiv](https://arxiv.org/pdf/1904.03385.pdf)]
-- <a name="st-ReID"></a> **[st-ReID]** Spatial-Temporal Person Re-identification (**AAAI2019**) [[arxiv](https://arxiv.org/abs/1812.03282)]
+- <a name="st-ReID"></a> **[st-ReID]** Spatial-Temporal Person Re-identification (**AAAI2019**) [[arxiv](https://arxiv.org/abs/1812.03282)] [[github](https://github.com/Wanggcong/Spatial-Temporal-Re-identification)]
 - <a name=""></a> Learning Resolution-Invariant Deep Representations for Person Re-Identification (**AAAI2019**)(**Oral**) [[paper](https://wvvw.aaai.org/ojs/index.php/AAAI/article/view/4832)]
 - <a name="HSME"></a> **[HSME]** HSME: Hypersphere Manifold Embedding for Visible Thermal Person Re-identification (**AAAI2019**) [[paper](https://wvvw.aaai.org/ojs/index.php/AAAI/article/view/4853)]
 - <a name="HPM"></a> **[HPM]** Horizontal Pyramid Matching for Person Re-identification (**AAAI2019**) [[arxiv](https://arxiv.org/abs/1804.05275)]
@@ -138,8 +139,41 @@ Re-Identification (**AAAI2019**) [[arxiv](https://arxiv.org/abs/1901.06140)] [[g
 - <a name=""></a> Spatial and Temporal Mutual Promotion for Video-based Person Re-identification (**AAAI2019**) [[arxiv](https://arxiv.org/abs/1812.10305)]
 - <a name=""></a> Learning Incremental Triplet Margin for Person Re-identification (**AAAI2019**) [[arxiv](https://arxiv.org/abs/1812.06576)]
 - <a name="KVM-MN"></a> **[KVM-MN]** Learning A Key-Value Memory Co-Attention Matching Network for Person ReIdentification (**AAAI2019**) [[paper](https://wvvw.aaai.org/ojs/index.php/AAAI/article/view/4959)]
-- <a name="ABD-Net"></a> **[ABD-Net]** ABD-Net: Attentive but Diverse Person Re-Identification (**ICCV2019**)(**Oral**) [[github](https://github.com/TAMU-VITA/ABD-Net)] [[arxiv](https://arxiv.org/abs/1908.01114)]
-- <a name="advPattern"></a> **[advPattern]** advPattern: Physical-World Attacks on Deep Person Re-Identification via Adversarially Transformable Patterns (**ICCV2019**) (**Oral**) [[arxiv](https://arxiv.org/abs/1908.09327)]
+- <a name="ABD-Net"></a> **[ABD-Net]** ABD-Net: Attentive but Diverse Person Re-Identification (**ICCV2019**) [[github](https://github.com/TAMU-VITA/ABD-Net)] [[arxiv](https://arxiv.org/abs/1908.01114)]
+- <a name="advPattern"></a> **[advPattern]** advPattern: Physical-World Attacks on Deep Person Re-Identification via Adversarially Transformable Patterns (**ICCV2019**) [[arxiv](https://arxiv.org/abs/1908.09327)]
+- <a name=""></a> Instance-Guided Context Rendering for Cross-Domain Person Re-Identification (**ICCV2019**)
+- <a name=""></a> Mixed High-Order Attention Network for Person Re-Identification (**ICCV2019**) [[arxiv](https://arxiv.org/abs/1908.05819)]
+- <a name=""></a> Recover and Identify: A Generative Dual Model for Cross-Resolution Person Re-Identification (**ICCV2019**) [[arxiv](https://arxiv.org/abs/1908.06052)]
+- <a name=""></a> Pose-Guided Feature Alignment for Occluded Person Re-Identification (**ICCV2019**) 
+- <a name=""></a> Recover and Identify: A Generative Dual Model for Cross-Resolution Person Re-Identification (**ICCV2019**) [[arxiv](https://arxiv.org/abs/1908.06052)]
+- <a name=""></a> Pose-Guided Feature Alignment for Occluded Person Re-Identification (**ICCV2019**) 
+- <a name=""></a> Robust Person Re-Identification by Modelling Feature Uncertainty (**ICCV2019**) 
+- <a name=""></a> Co-Segmentation Inspired Attention Networks for Video-Based Person Re-Identification (**ICCV2019**) 
+- <a name=""></a> RGB-Infrared Cross-Modality Person Re-Identification via Joint Pixel and Feature Alignment (**ICCV2019**) 
+- <a name=""></a> Beyond Human Parts: Dual Part-Aligned Representations for Person Re-Identification (**ICCV2019**)
+- <a name=""></a> Batch DropBlock Network for Person Re-Identification and Beyond (**ICCV2019**) [[arxiv](https://arxiv.org/abs/1811.07130)]
+- <a name=""></a> Omni-Scale Feature Learning for Person Re-Identification (**ICCV2019**) [[arxiv](https://arxiv.org/abs/1905.00953)]
+- <a name=""></a> Auto-ReID: Searching for a Part-Aware ConvNet for Person Re-Identification (**ICCV2019**) [[arxiv](https://arxiv.org/abs/1903.09776)]
+- <a name=""></a> Second-Order Non-Local Attention Networks for Person Re-Identification (**ICCV2019**) [[arxiv](https://arxiv.org/abs/1909.00295)]
+- <a name=""></a> Global-Local Temporal Representations for Video Person Re-Identification (**ICCV2019**) [[arxiv](https://arxiv.org/abs/1908.10049)]
+- <a name=""></a> Spectral Feature Transformation for Person Re-Identification (**ICCV2019**) [[arxiv](https://arxiv.org/abs/1811.11405)]
+- <a name=""></a> Self-Similarity Grouping: A Simple Unsupervised Cross Domain Adaptation Approach for Person Re-Identification (**ICCV2019**) (**Oral**)[[arxiv](https://arxiv.org/abs/1811.10144)]
+- <a name=""></a> Deep Reinforcement Active Learning for Human-in-the-Loop Person Re-Identification (**ICCV2019**)(**Oral**) 
+- <a name=""></a> A Dual-Path Model With Adaptive Attention for Vehicle Re-Identification (**ICCV2019**)(**Oral**) [[arxiv](https://arxiv.org/abs/1905.03397)]
+- <a name=""></a> View Confusion Feature Learning for Person Re-Identification (**ICCV2019**) 
+- <a name=""></a> MVP Matching: A Maximum-Value Perfect Matching for Mining Hard Samples, With Application to Person Re-Identification (**ICCV2019**) 
+- <a name=""></a> Unsupervised Person Re-Identification by Camera-Aware Similarity Consistency Learning (**ICCV2019**) 
+- <a name=""></a> Cross-Dataset Person Re-Identification via Unsupervised Pose Disentanglement and Adaptation (**ICCV2019**) [[arxiv](https://arxiv.org/abs/1909.09675)]
+- <a name=""></a> Discriminative Feature Learning With Consistent Attention Regularization for Person Re-Identification (**ICCV2019**) 
+- <a name=""></a> A Novel Unsupervised Camera-Aware Domain Adaptation Framework for Person Re-Identification (**ICCV2019**) [[arxiv](https://arxiv.org/abs/1904.03425)]
+- <a name=""></a> Self-Training With Progressive Augmentation for Unsupervised Cross-Domain Person Re-Identification (**ICCV2019**) [[arxiv](https://arxiv.org/abs/1907.13315)]
+- <a name=""></a> Unsupervised Graph Association for Person Re-Identification (**ICCV2019**) 
+- <a name=""></a> Foreground-Aware Pyramid Reconstruction for Alignment-Free Occluded Person Re-Identification (**ICCV2019**) [[arxiv](https://arxiv.org/abs/1904.04975)]
+- <a name=""></a> SBSGAN: Suppression of Inter-Domain Background Shift for Person Re-Identification (**ICCV2019**) [[arxiv](https://arxiv.org/abs/1908.09086)]
+- <a name=""></a> Self-Critical Attention Learning for Person Re-Identification (**ICCV2019**) 
+- <a name=""></a> Temporal Knowledge Propagation for Image-to-Video Person Re-Identification (**ICCV2019**) [[arxiv](https://arxiv.org/abs/1908.03885)]
+- <a name=""></a> Deep Constrained Dominant Sets for Person Re-Identification (**ICCV2019**) [[arxiv](https://arxiv.org/abs/1904.11397)]
+
 
 
 ### 2018
@@ -280,7 +314,8 @@ The section is being continually updated. Note that some values have superscript
 
 | Year-Conference/Journal | Method | Rank@1 | mAP |
 | --- | --- | --- | --- |
-| 2019--CVPR| [IANet](#IANet)           | **75.5** | 46.8 |
+| 2019--CVPR| [IANet](#IANet)           | 75.5 | 46.8 |
+| 2019--CVPR| [DG-Net](#DG-Net)           | **77.2** | **52.3** |
 
 
 
