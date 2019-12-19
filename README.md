@@ -24,8 +24,8 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 | Dataset                   | Release time     | # identities | # cameras   | # images |
 |---------------------------|------------------|--------------|-------------|----------|
-| [VIPeR](https://vision.soe.ucsc.edu/node/178)                     | 2007             | 632          | 2           | 1264     |
-| [ETH1,2,3](http://homepages.dcc.ufmg.br/~william/datasets.html)                  | 2007             | 85, 35, 28     | 1           | 8580     |
+| [VIPeR](https://vision.soe.ucsc.edu/node/178) | 2007 | 632 | 2 | 1264 |
+| [ETH1,2,3](http://homepages.dcc.ufmg.br/~william/datasets.html)| 2007 | 85, 35, 28 | 1 | 8580 |
 | [QMUL iLIDS](http://www.eecs.qmul.ac.uk/~jason/data/i-LIDS_Pedestrian.tgz)                | 2009             | 119          | 2           | 476      |
 | [GRID](http://personal.ie.cuhk.edu.hk/~ccloy/downloads_qmul_underground_reid.html)                      | 2009             | 1025         | 8           | 1275     |
 | [CAVIAR4ReID](http://www.lorisbazzani.info/caviar4reid.html)               | 2011             | 72           | 2           | 1220     |
@@ -71,6 +71,7 @@ This section only includes the last ten papers since 2018 in [arXiv.org](arXiv.o
 
 
 ### Survey
+- <a name=""></a> A Systematic Evaluation and Benchmark for Person Re-Identification: Features, Metrics, and Datasets **(T-PAMI2019)** [[paper](https://ieeexplore.ieee.org/document/8294254/)][[github](https://github.com/RSL-NEU/person-reid-benchmark)]
 - <a name=""></a> A Survey of Open-World Person Re-identification (**T-CSVT2019**) [[paper](https://ieeexplore.ieee.org/abstract/document/8640834)]
 - <a name=""></a> A systematic evaluation and benchmark for person re-identification: Features, metrics, and datasets (**T-PAMI2016**) [[arxiv](https://arxiv.org/abs/1605.09653)]
 - <a name=""></a> Person Re-identification: Past, Present and Future (**arXiv2016**) [[arxiv](https://arxiv.org/abs/1610.02984)]
@@ -80,7 +81,7 @@ This section only includes the last ten papers since 2018 in [arXiv.org](arXiv.o
 - <a name=""></a> Intelligent multi-camera video surveillance: A review (**PR Letters2013**) [[paper](https://www.sciencedirect.com/science/article/pii/S016786551200219X)]
 
 ### Methods dealing with the lack of labelled data
-- <a name="UTAL"></a> **[UTAL]** Unsupervised Tracklet Person Re-Identification (**T-PAMI2019**) [[paper](https://ieeexplore.ieee.org/abstract/document/8658110)]
+- <a name="UTAL"></a> **[UTAL]** Unsupervised Tracklet Person Re-Identification (**T-PAMI2019**) [[paper](https://ieeexplore.ieee.org/abstract/document/8658110)][[github](https://github.com/liminxian/DukeMTMC-SI-Tracklet)]
 - <a name="MAR"></a> **[MAR]** Unsupervised Person Re-identification by Soft Multilabel Learning (**CVPR2019**)(**Oral**) [[paper](http://openaccess.thecvf.com/content_CVPR_2019/html/Yu_Unsupervised_Person_Re-Identification_by_Soft_Multilabel_Learning_CVPR_2019_paper.html)] [[arxiv](https://arxiv.org/pdf/1903.06325.pdf)] [[github](https://github.com/KovenYu/MAR)]
 - <a name="E2E"></a> **[E2E]** Unsupervised Person Image Generation with Semantic Parsing Transformation (**CVPR2019**)(**Oral**) [[paper](http://openaccess.thecvf.com/content_CVPR_2019/html/Song_Unsupervised_Person_Image_Generation_With_Semantic_Parsing_Transformation_CVPR_2019_paper.html)] [[arxiv](https://arxiv.org/pdf/1904.03379.pdf)] [[github](https://github.com/SijieSong/person_generation_spt)]
 - <a name=""></a> Patch-Based Discriminative Feature Learning for Unsupervised Person Re-Identification (**CVPR2019**) [[paper](http://openaccess.thecvf.com/content_CVPR_2019/html/Yang_Patch-Based_Discriminative_Feature_Learning_for_Unsupervised_Person_Re-Identification_CVPR_2019_paper.html)]
@@ -100,7 +101,17 @@ This section only includes the last ten papers since 2018 in [arXiv.org](arXiv.o
 
 ### 2019
 
-- <a name=""></a>  Learning Disentangled Representation for Robust Person Re-identification (**NeurIPS2019**)
+- <a name="MuDeep"></a> **[MuDeep]** Leader-based Multi-Scale Attention Deep Architecture for Person Re-identification **(T-PAMI2019)** [[paper](https://ieeexplore.ieee.org/document/8762210)]
+- <a name=""></a> Learning Part-based Convolutional Features for Person Re-identification **(T-PAMI2019)** [[paper]()]
+- <a name="PGR"></a> **[PGR]** Pose-Guided Representation Learning for Person Re-Identification **(T-PAMI2019)** [[paper](https://ieeexplore.ieee.org/document/8764426)]
+- <a name="HGD"></a> **[HGD]** Hierarchical Gaussian Descriptors with Application to Person Re-Identification **(T-PAMI2019)** [[paper](https://ieeexplore.ieee.org/document/8705270)]
+- <a name=""></a> A Graph-based Approach for Making Consensus-based Decisions in Image Search and Person Re-identification **(T-PAMI2019)** [[paper](https://ieeexplore.ieee.org/document/8852741)]
+- <a name="KPM|RW"></a> **[KPM|RW]** Person Re-identification with Deep Kronecker-Product Matching and Group-shuffling Random Walk **(T-PAMI2019)** [[paper](https://ieeexplore.ieee.org/document/8906139)]
+- <a name="MHP"></a> **[MHP]** Fine-Grained Multi-human Parsing (**IJCV2019**) [[paper](https://link.springer.com/article/10.1007/s11263-019-01181-5)]
+- <a name="TPI"></a> **[TPI]**  Tracking Persons-of-Interest via Unsupervised Representation Adaptation (**IJCV2019**) [[paper](https://link.springer.com/article/10.1007/s11263-019-01212-1)]
+- <a name="FCDSC"></a> **[FCDSC]** Multi-target Tracking in Multiple Non-overlapping Cameras Using Fast-Constrained Dominant Sets **(IJCV2019)** [[paper](https://link.springer.com/article/10.1007/s11263-019-01180-6)]
+- <a name="DAN"></a> **[DAN]** Learning Discriminative Aggregation Network for Video-Based Face Recognition and Person Re-identification (**IJCV2019**) [[paper](https://link.springer.com/article/10.1007/s11263-018-1135-x)]
+- <a name=""></a>  Learning Disentangled Representation for Robust Person Re-identification (**NeurIPS2019**) [[paper](https://papers.nips.cc/paper/8771-learning-disentangled-representation-for-robust-person-re-identification)]
 - <a name="AlignedReID++"></a>  **[AlignedReID++]**  AlignedReID++: Dynamically matching local information for person re-identification (**PR2019**) [[paper](https://www.sciencedirect.com/science/article/pii/S0031320319302031)]
 - <a name="MSP-CNN"></a> **[MSP-CNN]** Multi-level Similarity Perception Network for Person Re-identification (**TOMM2019**) [[paper](https://dl.acm.org/citation.cfm?id=3309881)]
 - <a name=""></a> Discriminative Representation Learning for Person Re-identification via Multi-loss Training (**JVCIR2019**) [[paper](https://www.sciencedirect.com/science/article/pii/S1047320319301749)]
