@@ -71,9 +71,8 @@ This section only includes the last ten papers since 2018 in [arXiv.org](arXiv.o
 
 
 ### Survey
-- <a name=""></a> A Systematic Evaluation and Benchmark for Person Re-Identification: Features, Metrics, and Datasets **(T-PAMI2019)** [[paper](https://ieeexplore.ieee.org/document/8294254/)][[github](https://github.com/RSL-NEU/person-reid-benchmark)]
 - <a name=""></a> A Survey of Open-World Person Re-identification (**T-CSVT2019**) [[paper](https://ieeexplore.ieee.org/abstract/document/8640834)]
-- <a name=""></a> A systematic evaluation and benchmark for person re-identification: Features, metrics, and datasets (**T-PAMI2016**) [[arxiv](https://arxiv.org/abs/1605.09653)]
+- <a name=""></a> A Systematic Evaluation and Benchmark for Person Re-Identification: Features, Metrics, and Datasets **(T-PAMI2018)** [[paper](https://ieeexplore.ieee.org/document/8294254/)][[github](https://github.com/RSL-NEU/person-reid-benchmark)] [[arxiv](https://arxiv.org/abs/1605.09653)]
 - <a name=""></a> Person Re-identification: Past, Present and Future (**arXiv2016**) [[arxiv](https://arxiv.org/abs/1610.02984)]
 - <a name=""></a> A survey of approaches and trends in person re-identification (**Image and Vision Computing 2014**) [[paper](https://www.sciencedirect.com/science/article/pii/S0262885614000262)]
 - <a name=""></a> Appearance Descriptors for Person Re-identification: a Comprehensive Review (**arXiv2013**) [[arxiv](https://arxiv.org/abs/1307.574)]
