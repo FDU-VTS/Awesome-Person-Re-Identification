@@ -45,7 +45,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
 | [CASIA Gait Database B](http://www.cbsr.ia.ac.cn/english/Gait%20Databases.asp)     | 2015(*see below) | 124          | 11          |          |
 | [Market1501](http://www.liangzheng.org/Project/project_reid.html)                | 2015             | 1501         | 6           | 32217    |
 | [PKU-Reid](https://github.com/charliememory/PKU-Reid-Dataset)                  | 2016             | 114          | 2           | 1824     |
-| [PRW](http://www.liangzheng.org/Project/project_prw.html)                       | 2016             | 932          | 6           | 34304    |
+| [PRW](http://www.liangzheng.com.cn/Project/project_prw.html)                       | 2016             | 932          | 6           | 34304    |
 | [Large scale person search](http://www.ee.cuhk.edu.hk/~xgwang/PS/dataset.html) | 2016             | 11934s       | -           | 34574    |                    |
 | [MARS](http://www.liangzheng.com.cn/Project/project_mars.html)                      | 2016             | 1261         | 6           | 1191003  |
 | [DukeMTMC-reID](http://vision.cs.duke.edu/DukeMTMC/)             | 2017             | 1812         | 8           | 36441    |                       |
