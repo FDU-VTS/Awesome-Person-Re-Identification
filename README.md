@@ -80,6 +80,9 @@ This section only includes the last ten papers since 2018 in [arXiv.org](arXiv.o
 - <a name=""></a> Intelligent multi-camera video surveillance: A review (**PR Letters2013**) [[paper](https://www.sciencedirect.com/science/article/pii/S016786551200219X)]
 
 ### Methods dealing with the lack of labelled data
+- <a name="CamStyle"></a> **[CamStyle]** CamStyle: A Novel Data Augmentation Method for Person Re-Identification (**TIP2019**) [[paper](https://ieeexplore.ieee.org/document/8485427/)][[github](https://github.com/zhunzhong07/CamStyle)]
+- <a name="DGM"></a> **[DGM]** Dynamic Graph Co-Matching for Unsupervised Video-Based Person Re-Identification **(TIP2019)** [[paper](https://ieeexplore.ieee.org/document/8611378)]
+- <a name="t-MTL"></a> **[t-MTL]** Tensor Multi-task Learning for Person Re-identification **(TIP2019)** [[paper](https://ieeexplore.ieee.org/document/8889995)]
 - <a name="UTAL"></a> **[UTAL]** Unsupervised Tracklet Person Re-Identification (**T-PAMI2019**) [[paper](https://ieeexplore.ieee.org/abstract/document/8658110)][[github](https://github.com/liminxian/DukeMTMC-SI-Tracklet)]
 - <a name="MAR"></a> **[MAR]** Unsupervised Person Re-identification by Soft Multilabel Learning (**CVPR2019**)(**Oral**) [[paper](http://openaccess.thecvf.com/content_CVPR_2019/html/Yu_Unsupervised_Person_Re-Identification_by_Soft_Multilabel_Learning_CVPR_2019_paper.html)] [[arxiv](https://arxiv.org/pdf/1903.06325.pdf)] [[github](https://github.com/KovenYu/MAR)]
 - <a name="E2E"></a> **[E2E]** Unsupervised Person Image Generation with Semantic Parsing Transformation (**CVPR2019**)(**Oral**) [[paper](http://openaccess.thecvf.com/content_CVPR_2019/html/Song_Unsupervised_Person_Image_Generation_With_Semantic_Parsing_Transformation_CVPR_2019_paper.html)] [[arxiv](https://arxiv.org/pdf/1904.03379.pdf)] [[github](https://github.com/SijieSong/person_generation_spt)]
@@ -104,9 +107,22 @@ This section only includes the last ten papers since 2018 in [arXiv.org](arXiv.o
 
 
 ### 2019
-
+- <a name="REGCT"></a> **[REGCT]** Robust and Efficient Graph Correspondence Transfer for Person Re-identification **(TIP2019)** [[paper](https://ieeexplore.ieee.org/document/8709994)]
+- <a name="DHA"></a> **[DHA]** Learning Sparse and Identity-preserved Hidden Attributes for Person Re-identification **(TIP2019)** [[paper](https://ieeexplore.ieee.org/document/8874954)]
+- <a name="RAP"></a> **[RAP]** A Richly Annotated Pedestrian Dataset for Person Retrieval in Real Surveillance Scenarios **(TIP2019)** [[paper](https://ieeexplore.ieee.org/document/8510891)][[github](https://github.com/dangweili/RAP)]
+- <a name="SCAN"></a> **[SCAN]** SCAN: Self-and-Collaborative Attention Network for Video Person Re-Identification **(TIP2019)** [[paper](https://ieeexplore.ieee.org/document/8703416)][[github](https://github.com/ruixuejianfei/SCAN)]
+- <a name="FANN"></a> **[FANN]** Discriminative Feature Learning With Foreground Attention for Person Re-Identification **(TIP2019)** [[paper](https://ieeexplore.ieee.org/document/8676064)]
+- <a name=""></a> Progressive Learning for Person Re-Identification With One Example **(TIP2019)** [[paper](https://ieeexplore.ieee.org/document/8607049)][[github](https://github.com/Yu-Wu/One-Example-Person-ReID)]
+- <a name="PIE"></a> **[PIE]** Pose-Invariant Embedding for Deep Person Re-Identification **(TIP2019)** [[paper](hhttps://ieeexplore.ieee.org/document/8693885)]
+- <a name="UVDL"></a> **[UVDL]** Uniform and Variational Deep Learning for RGB-D Object Recognition and Person Re-Identification **(TIP2019)** [[paper](https://ieeexplore.ieee.org/document/8715446)]
+- <a name="CI-CNN"></a> **[CI-CNN]** Context-Interactive CNN for Person Re-Identification **(TIP2019)** [[paper](https://ieeexplore.ieee.org/document/8907836)]
+- <a name="k-KISSME"></a> **[k-KISSME]** Kernel Distance Metric Learning Using Pairwise Constraints for Person Re-Identification **(TIP2019)** [[paper](https://ieeexplore.ieee.org/document/8469088)][[github](https://github.com/bacnguyencong/k-KISSME)]
+- <a name="MpRL"></a> **[MpRL]** Multi-Pseudo Regularized Label for Generated Data in Person Re-Identification **(TIP2019)** [[paper](https://ieeexplore.ieee.org/document/8485730)][[github](https://github.com/Huang-3/MpRL-for-person-re-ID)]
+- <a name=""></a> Deep Representation Learning With Part Loss for Person Re-Identification **(TIP2019)** [[paper](https://ieeexplore.ieee.org/document/8607050)]
+- <a name="TRL"></a> **[TRL]** Video Person Re-Identification by Temporal Residual Learning **(TIP2019)** [[paper](https://ieeexplore.ieee.org/document/8513884)]
+- <a name="STAL"></a> **[STAL]** Spatial-Temporal Attention-Aware Learning for Video-Based Person Re-Identification **(TIP2019)** [[paper](https://ieeexplore.ieee.org/document/8675957)]
 - <a name="MuDeep"></a> **[MuDeep]** Leader-based Multi-Scale Attention Deep Architecture for Person Re-identification **(T-PAMI2019)** [[paper](https://ieeexplore.ieee.org/document/8762210)]
-- <a name=""></a> Learning Part-based Convolutional Features for Person Re-identification **(T-PAMI2019)** [[paper]()]
+- <a name=""></a> Learning Part-based Convolutional Features for Person Re-identification **(T-PAMI2019)** [[paper](https://ieeexplore.ieee.org/document/8826008)]
 - <a name="PGR"></a> **[PGR]** Pose-Guided Representation Learning for Person Re-Identification **(T-PAMI2019)** [[paper](https://ieeexplore.ieee.org/document/8764426)]
 - <a name="HGD"></a> **[HGD]** Hierarchical Gaussian Descriptors with Application to Person Re-Identification **(T-PAMI2019)** [[paper](https://ieeexplore.ieee.org/document/8705270)]
 - <a name=""></a> A Graph-based Approach for Making Consensus-based Decisions in Image Search and Person Re-identification **(T-PAMI2019)** [[paper](https://ieeexplore.ieee.org/document/8852741)]
