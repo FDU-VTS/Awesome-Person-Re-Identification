@@ -42,14 +42,13 @@ If you have any problems, suggestions or improvements, please submit the issue o
 | [MPR Drone](http://www.eecs.qmul.ac.uk/~rlayne/downloads_qmul_drone_dataset.html)                 | 2014             | 84           | 1           |          |
 | [HDA Person Dataset](http://vislab.isr.ist.utl.pt/hda-dataset/)        | 2014             | 53           | 13          | 2976     |                   |
 | [Shinpuhkan Dataset](http://www.mm.media.kyoto-u.ac.jp/en/datasets/shinpuhkan/)        | 2014             | 24           | 16          |          |                      |
-| [CASIA Gait Database B](http://www.cbsr.ia.ac.cn/english/Gait%20Databases.asp)     | 2015(*see below) | 124          | 11          |          |
+| [CASIA Gait Database B](http://www.cbsr.ia.ac.cn/english/Gait%20Databases.asp)     | 2015 | 124          | 11          |          |
 | [Market1501](http://www.liangzheng.org/Project/project_reid.html)                | 2015             | 1501         | 6           | 32217    |
 | [PKU-Reid](https://github.com/charliememory/PKU-Reid-Dataset)                  | 2016             | 114          | 2           | 1824     |
-| [PRW](http://www.liangzheng.com.cn/Project/project_prw.html)                       | 2016             | 932          | 6           | 34304    |
-| [Large scale person search](http://www.ee.cuhk.edu.hk/~xgwang/PS/dataset.html) | 2016             | 11934s       | -           | 34574    |                    |
+| [PRW](http://www.liangzheng.com.cn/Project/project_prw.html)                       | 2016             | 932          | 6           | 34,304    |
+| [CUHK-SYSU](http://www.ee.cuhk.edu.hk/~xgwang/PS/dataset.html) | 2016             | 8,432       | -           | 18,184    |                    |
 | [MARS](http://www.liangzheng.com.cn/Project/project_mars.html)                      | 2016             | 1261         | 6           | 1191003  |
-| [DukeMTMC-reID](http://vision.cs.duke.edu/DukeMTMC/)             | 2017             | 1812         | 8           | 36441    |                       |
-| [DukeMTMC4ReID](http://vision.cs.duke.edu/DukeMTMC/)             | 2017             | 1852         | 8           | 46261    |                      |
+| [DukeMTMC-reID](https://github.com/layumi/DukeMTMC-reID_baseline) (offline)             | 2017             | 1812         | 8           | 36441    |                       |
 | [Airport](http://www.northeastern.edu/alert/transitioning-technology/alert-datasets/alert-airport-re-identification-dataset/)                   | 2017             | 9651         | 6           | 39902    |
 | [MSMT17](http://www.pkuvmc.com/publications/msmt17.html)                    | 2018             | 4101         | 15          | 126441   |
 | [RPIfield](https://drive.google.com/file/d/1GO1zm7vCAJwXgJtoFyUs367_Knz8Ev0A/view?usp=sharing)   | 2018      | 112       | 12        | 601,581       |
