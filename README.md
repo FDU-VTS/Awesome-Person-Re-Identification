@@ -80,30 +80,46 @@ This section only includes the last ten papers since 2018 in [arXiv.org](arXiv.o
 
 ### Methods dealing with the lack of labelled data
 - <a name="CamStyle"></a> **[CamStyle]** CamStyle: A Novel Data Augmentation Method for Person Re-Identification (**TIP2019**) [[paper](https://ieeexplore.ieee.org/document/8485427/)][[github](https://github.com/zhunzhong07/CamStyle)]
-- <a name="DGM"></a> **[DGM]** Dynamic Graph Co-Matching for Unsupervised Video-Based Person Re-Identification **(TIP2019)** [[paper](https://ieeexplore.ieee.org/document/8611378)]
+- <a name="DGM+"></a> **[DGM+]** Dynamic Graph Co-Matching for Unsupervised Video-Based Person Re-Identification **(TIP2019)** [[paper](https://ieeexplore.ieee.org/document/8611378)]
 - <a name="t-MTL"></a> **[t-MTL]** Tensor Multi-task Learning for Person Re-identification **(TIP2019)** [[paper](https://ieeexplore.ieee.org/document/8889995)]
 - <a name="UTAL"></a> **[UTAL]** Unsupervised Tracklet Person Re-Identification (**T-PAMI2019**) [[paper](https://ieeexplore.ieee.org/abstract/document/8658110)][[github](https://github.com/liminxian/DukeMTMC-SI-Tracklet)]
 - <a name="MAR"></a> **[MAR]** Unsupervised Person Re-identification by Soft Multilabel Learning (**CVPR2019**)(**Oral**) [[paper](http://openaccess.thecvf.com/content_CVPR_2019/html/Yu_Unsupervised_Person_Re-Identification_by_Soft_Multilabel_Learning_CVPR_2019_paper.html)] [[arxiv](https://arxiv.org/pdf/1903.06325.pdf)] [[github](https://github.com/KovenYu/MAR)]
 - <a name="E2E"></a> **[E2E]** Unsupervised Person Image Generation with Semantic Parsing Transformation (**CVPR2019**)(**Oral**) [[paper](http://openaccess.thecvf.com/content_CVPR_2019/html/Song_Unsupervised_Person_Image_Generation_With_Semantic_Parsing_Transformation_CVPR_2019_paper.html)] [[arxiv](https://arxiv.org/pdf/1904.03379.pdf)] [[github](https://github.com/SijieSong/person_generation_spt)]
-- <a name=""></a> Patch-Based Discriminative Feature Learning for Unsupervised Person Re-Identification (**CVPR2019**) [[paper](http://openaccess.thecvf.com/content_CVPR_2019/html/Yang_Patch-Based_Discriminative_Feature_Learning_for_Unsupervised_Person_Re-Identification_CVPR_2019_paper.html)]
-- <a name=""></a> A Bottom-Up Clustering Approach to Unsupervised Person Re-identification (**AAAI2019**) (**Oral**) [[paper](https://aaai.org/ojs/index.php/AAAI/article/view/4898)] [[github](https://github.com/vana77/Bottom-up-Clustering-Person-Re-identification)]
+- <a name="PAUL"></a> **[PAUL]** Patch-Based Discriminative Feature Learning for Unsupervised Person Re-Identification (**CVPR2019**) [[paper](http://openaccess.thecvf.com/content_CVPR_2019/html/Yang_Patch-Based_Discriminative_Feature_Learning_for_Unsupervised_Person_Re-Identification_CVPR_2019_paper.html)]
+- <a name="BUC"></a> **[BUC]** A Bottom-Up Clustering Approach to Unsupervised Person Re-identification (**AAAI2019**) (**Oral**) [[paper](https://aaai.org/ojs/index.php/AAAI/article/view/4898)] [[github](https://github.com/vana77/Bottom-up-Clustering-Person-Re-identification)]
 - <a name=""></a> Weakly Supervised Person Re-Identification (**CVPR2019**) [[paper](http://openaccess.thecvf.com/content_CVPR_2019/html/Meng_Weakly_Supervised_Person_Re-Identification_CVPR_2019_paper.html)] [[arxiv](https://arxiv.org/pdf/1904.03832.pdf)]
 - <a name=""></a> Distilled Person Re-identification: Towards a More Scalable System (**CVPR2019**) [[paper](http://openaccess.thecvf.com/content_CVPR_2019/html/Wu_Distilled_Person_Re-Identification_Towards_a_More_Scalable_System_CVPR_2019_paper.html)]
-- <a name=""></a> Self-similarity Grouping: A Simple Unsupervised Cross Domain Adaptation Approach for Person Re-identification (**ICCV2019**) (**Oral**) [[paper](http://openaccess.thecvf.com/content_ICCV_2019/html/Fu_Self-Similarity_Grouping_A_Simple_Unsupervised_Cross_Domain_Adaptation_Approach_for_ICCV_2019_paper.html)][[arxiv](https://arxiv.org/abs/1811.10144)]
-- <a name=""></a> A Novel Unsupervised Camera-Aware Domain Adaptation Framework for Person Re-Identification (**ICCV2019**) [[paper](http://openaccess.thecvf.com/content_ICCV_2019/html/Qi_A_Novel_Unsupervised_Camera-Aware_Domain_Adaptation_Framework_for_Person_Re-Identification_ICCV_2019_paper.html)] [[arxiv](https://arxiv.org/abs/1904.03425)]
+- <a name="SSG++"></a> **[SSG++]** Self-similarity Grouping: A Simple Unsupervised Cross Domain Adaptation Approach for Person Re-identification (**ICCV2019**) (**Oral**) [[paper](http://openaccess.thecvf.com/content_ICCV_2019/html/Fu_Self-Similarity_Grouping_A_Simple_Unsupervised_Cross_Domain_Adaptation_Approach_for_ICCV_2019_paper.html)][[arxiv](https://arxiv.org/abs/1811.10144)]
+- <a name="UCDA-CCE"></a> **[UCDA-CCE]** A Novel Unsupervised Camera-Aware Domain Adaptation Framework for Person Re-Identification (**ICCV2019**) [[paper](http://openaccess.thecvf.com/content_ICCV_2019/html/Qi_A_Novel_Unsupervised_Camera-Aware_Domain_Adaptation_Framework_for_Person_Re-Identification_ICCV_2019_paper.html)] [[arxiv](https://arxiv.org/abs/1904.03425)]
 - <a name=""></a> Self-Training With Progressive Augmentation for Unsupervised Cross-Domain Person Re-Identification (**ICCV2019**) [[paper](http://openaccess.thecvf.com/content_ICCV_2019/html/Zhang_Self-Training_With_Progressive_Augmentation_for_Unsupervised_Cross-Domain_Person_Re-Identification_ICCV_2019_paper.html)] [[arxiv](https://arxiv.org/abs/1907.13315)]
-- <a name=""></a> Unsupervised Graph Association for Person Re-Identification (**ICCV2019**) [[paper](http://openaccess.thecvf.com/content_ICCV_2019/html/Wu_Unsupervised_Graph_Association_for_Person_Re-Identification_ICCV_2019_paper.html)]
-- <a name=""></a> Unsupervised Person Re-Identification by Camera-Aware Similarity Consistency Learning (**ICCV2019**) [[paper](http://openaccess.thecvf.com/content_ICCV_2019/html/Wu_Unsupervised_Person_Re-Identification_by_Camera-Aware_Similarity_Consistency_Learning_ICCV_2019_paper.html)]
-- <a name=""></a> Cross-Dataset Person Re-Identification via Unsupervised Pose Disentanglement and Adaptation (**ICCV2019**) [[paper](http://openaccess.thecvf.com/content_ICCV_2019/html/Li_Cross-Dataset_Person_Re-Identification_via_Unsupervised_Pose_Disentanglement_and_Adaptation_ICCV_2019_paper.html)] [[arxiv](https://arxiv.org/abs/1909.09675)]
+- <a name="UGA"></a> **[UGA]** Unsupervised Graph Association for Person Re-Identification (**ICCV2019**) [[paper](http://openaccess.thecvf.com/content_ICCV_2019/html/Wu_Unsupervised_Graph_Association_for_Person_Re-Identification_ICCV_2019_paper.html)]
+- <a name="CFCL"></a> **[CFCL]** Unsupervised Person Re-Identification by Camera-Aware Similarity Consistency Learning (**ICCV2019**) [[paper](http://openaccess.thecvf.com/content_ICCV_2019/html/Wu_Unsupervised_Person_Re-Identification_by_Camera-Aware_Similarity_Consistency_Learning_ICCV_2019_paper.html)]
+- <a name="PDA-Net"></a> **[PDA-Net]** Cross-Dataset Person Re-Identification via Unsupervised Pose Disentanglement and Adaptation (**ICCV2019**) [[paper](http://openaccess.thecvf.com/content_ICCV_2019/html/Li_Cross-Dataset_Person_Re-Identification_via_Unsupervised_Pose_Disentanglement_and_Adaptation_ICCV_2019_paper.html)] [[arxiv](https://arxiv.org/abs/1909.09675)]
 - <a name=""></a> Deep Reinforcement Active Learning for Human-in-the-Loop Person Re-Identification (**ICCV2019**)(**Oral**) [[paper](http://openaccess.thecvf.com/content_ICCV_2019/html/Liu_Deep_Reinforcement_Active_Learning_for_Human-in-the-Loop_Person_Re-Identification_ICCV_2019_paper.html)]
-- <a name=""></a> Transferable Joint Attribute-Identity Deep Learning for Unsupervised Person Re-Identification (**CVPR2018**) [[paper](http://openaccess.thecvf.com/content_cvpr_2018/html/Wang_Transferable_Joint_Attribute-Identity_CVPR_2018_paper.html)] [[arxiv](https://arxiv.org/abs/1803.09786)]
+- <a name="TJ-AIDL"></a> **[TJ-AIDL]** Transferable Joint Attribute-Identity Deep Learning for Unsupervised Person Re-Identification (**CVPR2018**) [[paper](http://openaccess.thecvf.com/content_cvpr_2018/html/Wang_Transferable_Joint_Attribute-Identity_CVPR_2018_paper.html)] [[arxiv](https://arxiv.org/abs/1803.09786)]
 - <a name=""></a> Unsupervised Cross-Dataset Person Re-Identification by Transfer Learning of Spatial-Temporal Patterns (**CVPR2018**) [[paper](http://openaccess.thecvf.com/content_cvpr_2018/html/Lv_Unsupervised_Cross-Dataset_Person_CVPR_2018_paper.html)] [[arxiv](https://arxiv.org/abs/1803.07293)]
-- <a name=""></a> Domain Adaptation through Synthesis for Unsupervised Person Re-identification (**ECCV2018**) [[paper](http://openaccess.thecvf.com/content_ECCV_2018/html/Slawomir_Bak_Domain_Adaptation_through_ECCV_2018_paper.html)]
-- <a name=""></a> Robust Anchor Embedding for Unsupervised Video Person Re-Identification in the Wild (**ECCV2018**) [[paper](http://openaccess.thecvf.com/content_ECCV_2018/html/Mang_YE_Robust_Anchor_Embedding_ECCV_2018_paper.html)]
-- <a name=""></a> Unsupervised Person Re-identification by Deep Learning Tracklet Association (**ECCV2018**)(Oral) [[paper](http://openaccess.thecvf.com/content_ECCV_2018/html/Minxian_Li_Unsupervised_Person_Re-identification_ECCV_2018_paper.html)]
-- <a name=""></a> Cross-View Asymmetric Metric Learning for Unsupervised Person Re-Identification (**ICCV2017**) [[paper](http://openaccess.thecvf.com/content_iccv_2017/html/Yu_Cross-View_Asymmetric_Metric_ICCV_2017_paper.html)] [[arxiv](https://arxiv.org/abs/1708.08062)]
+- <a name="DAsy"></a> **[DAsy]** Domain Adaptation through Synthesis for Unsupervised Person Re-identification (**ECCV2018**) [[paper](http://openaccess.thecvf.com/content_ECCV_2018/html/Slawomir_Bak_Domain_Adaptation_through_ECCV_2018_paper.html)]
+- <a name="RACE"></a> **[RACE]** Robust Anchor Embedding for Unsupervised Video Person Re-Identification in the Wild (**ECCV2018**) [[paper](http://openaccess.thecvf.com/content_ECCV_2018/html/Mang_YE_Robust_Anchor_Embedding_ECCV_2018_paper.html)]
+- <a name="TAUDL"></a> **[TAUDL]** Unsupervised Person Re-identification by Deep Learning Tracklet Association (**ECCV2018**)(Oral) [[paper](http://openaccess.thecvf.com/content_ECCV_2018/html/Minxian_Li_Unsupervised_Person_Re-identification_ECCV_2018_paper.html)]
+- <a name="CAMEL"></a> **[CAMEL]** Cross-View Asymmetric Metric Learning for Unsupervised Person Re-Identification (**ICCV2017**) [[paper](http://openaccess.thecvf.com/content_iccv_2017/html/Yu_Cross-View_Asymmetric_Metric_ICCV_2017_paper.html)] [[arxiv](https://arxiv.org/abs/1708.08062)]
 - <a name=""></a> Stepwise Metric Promotion for Unsupervised Video Person Re-Identification (**ICCV2017**) [[paper](http://openaccess.thecvf.com/content_iccv_2017/html/Liu_Stepwise_Metric_Promotion_ICCV_2017_paper.html)]
-
+- <a name="UDAP"></a> **[UDAP]** Unsupervised Domain Adaptive Re-Identification: Theory and Practice (**arXiv2018**) [[paper](https://arxiv.org/abs/1807.11334)]
+- <a name="ECN"></a> **[ECN]** Invariance Matters: Exemplar Memory for Domain Adaptive Person Re-identification (**CVPR2019**) [[paper](https://arxiv.org/abs/1904.01990)]
+- <a name="CDs"></a> **[CDs]** Clustering and Dynamic Sampling Based Unsupervised Domain Adaptation for Person Re-Identification (**ICME2019**) [[paper](http://www.cbsr.ia.ac.cn/users/zlei/papers/JLWU-ICME-2019.pdf)]
+- <a name="ARN"></a> **[ARN]** Adaptation and reidentification network: An unsupervised deep transfer learning approach to person re-identification (**CVPR2018**) [[paper](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w6/Li_Adaptation_and_Re-Identification_CVPR_2018_paper.pdf)]
+- <a name="HHL"></a> **[HHL]** Generalizing a person retrieval model hetero-and homogeneously (**ECCV2018**) [[paper](https://uploads-ssl.webflow.com/5cd23e823ab9b1f01f815a54/5d10d8990022bdb066a9491d_Generalizing%20A%20Person%20Retrieval%20Model%20Hetero%20and%20Homogeneously.pdf)]
+- <a name="DECAMEL"></a> **[DECAMEL]** Unsupervised person re- identification by deep asymmetric metric embedding (**PAMI2019**) [[paper](https://arxiv.org/pdf/1901.10177.pdf)]
+- <a name="SPGAN+LMP"></a> **[SPGAN+LMP]** Image-image domain adaptation with preserved self-similarity and domain-dissimilarity for person re-identification (**CVPR2018**) [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Deng_Image-Image_Domain_Adaptation_CVPR_2018_paper.pdf)]
+- <a name="MMFA"></a> **[MMFA]** Multi-task mid-level feature alignment network for un- supervised cross-dataset person re-identification (**BMVC2018**) [[paper](http://www.bmva.org/bmvc/2018/contents/papers/0244.pdf)]
+- <a name="CycleGAN"></a> **[CycleGAN]** Unpaired image-to- image translation using cycle-consistent adversarial networks (**ICCV2017**) [[paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhu_Unpaired_Image-To-Image_Translation_ICCV_2017_paper.pdf)]
+- <a name="PUL"></a> **[PUL]**  Unsupervised person re-identification: Clustering and fine-tuning (**TOMM2018**) [[paper](https://arxiv.org/pdf/1705.10444.pdf)]
+- <a name="PTGAN"></a> **[PTGAN]** Person transfer gan to bridge domain gap for person re-identification (**CVPR2018**) [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wei_Person_Transfer_GAN_CVPR_2018_paper.pdf)]
+- <a name="proposed"></a> **[proposed]** Video-Based Person Re-Identification Using Unsupervised Tracklet Matching (**Access2019**) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8639924)]
+- <a name="DAL"></a> **[DAL]** Deep association learning for unsupervised video person re-identification (**BMVC2018**) [[paper](https://arxiv.org/pdf/1808.07301.pdf)]
+- <a name="SMP*"></a> **[SMP*]** Stepwise metric promotion for unsupervised video person re-identification (**ICCV2017**) [[paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Liu_Stepwise_Metric_Promotion_ICCV_2017_paper.pdf)]
+- <a name="PAM+LOMO"></a> **[PAM+LOMO]** Multi-shot person re-identification using part appearance mixture (**WACV**) [[paper](http://www-sop.inria.fr/members/Francois.Bremond/Postscript/SalwaSSD18.pdf)]
+- <a name="DGM+IDE"></a> **[DGM+IDE]** Dynamic label graph matching for unsupervised video re-identification (**ICCV2017**) [[paper](https://arxiv.org/abs/1709.09297v1)]
+- <a name="MDTS"></a> **[MDTS]** Person re-identification by unsupervised video matching (**PR2017**) [[paper](https://arxiv.org/abs/1611.08512)]
 
 ### 2019
 - <a name="REGCT"></a> **[REGCT]** Robust and Efficient Graph Correspondence Transfer for Person Re-identification **(TIP2019)** [[paper](https://ieeexplore.ieee.org/document/8709994)]
@@ -336,3 +352,109 @@ The section is being continually updated. Note that some values have superscript
 | --- | --- | --- | --- |
 | 2019--CVPR| [IANet](#IANet)           | 75.5 | 46.8 |
 | 2019--CVPR| [DG-Net](#DG-Net)           | **77.2** | **52.3** |
+
+### UDA
+
+### Market-1501
+
+| Year-Conference/Journal | Method | Rank@1 | Rank@5 | Rank@10 | mAP |
+| --- | --- | --- | --- | --- | --- |
+| 2019--ICCV| [UGA](#UGA)    | 87.2 |      |      | 70.3 |
+| 2019--ICCV| [SSG++](#SSG++)| 86.2 | 94.6 | 96.5 | 68.7 |
+| 2018--arXiv|[UDAP](#UDAP)  | 75.8 | 89.5 | 93.2 | 53.7 |
+| 2019--ICCV| [PDA-Net](#PDA-Net)| 75.2 | 86.3 | 90.2 | 47.6 |
+| 2019--CVPR| [ECN](#ECN)    | 75.1 | 87.6 | 91.6 | 43.0 |
+| 2019--ICME| [CDs](#CDs)    | 71.6 | 81.2 | 84.7 | 39.9 |
+| 2018--CVPR| [ARN](#ARN)    | 70.3 | 80.4 | 86.3 | 39.4 |
+| 2019--PAMI| [UTAL](#UTAL)  | 69.2 |      |      | 46.2 |
+| 2019--CVPR| [PAUL](#PAUL)  | 68.5 | 82.4 | 87.4 | 40.1 |
+| 2019--CVPR| [MAR](#MAR)    | 67.7 | 81.9 |      | 40.0 |
+| 2018--ECCV| [DASy](#DAsy)  | 65.7 |      |      |      |
+| 2019--ICCV| [CFCL](#CFCL)  | 65.4 | 80.6 | 86.2 | 35.5 |
+| 2019--ICCV| [UCDA-CCE](#UCDA-CCE)| 64.3 ||      | 34.5 |
+| 2018--ECCV| [TAUDL](#TAUDL)| 63.7 |      |      | 41.2 |
+| 2018--ECCV| [HHL](#HHL)    | 62.2 | 78.8 | 84.0 | 31.4 |
+| 2019--AAAI| [BUC](#BUC)    | 61.9 | 73.5 | 78.2 | 29.6 |
+| 2019--PAMI| [DECAMEL](#DECAMEL)| 60.2 | 76.0 |  | 32.4 |
+| 2019--TIP | [CamStyle](#CamStyle)| 58.8 | 78.2 | 84.3 | 31.4 |
+| 2018--CVPR| [TJ-AIDL](#TJ-AIDL)| 58.2 | 74.8 | 81.1 | 26.5 |
+| 2018--CVPR| [SPGAN+LMP](#SPGAN+LMP)| 57.7 | 75.8 | 82.4 | 26.7 |
+| 2018--BMVC| [MMFA](#MMFA)  | 56.7 | 75.0 | 81.8 | 27.4 |
+| 2017--ICCV| [CAMEL](#CAMEL)| 54.5 | 73.1 |      | 26.3 |
+| 2018--CVPR| [SPGAN](#SPGAN)| 51.5 | 70.1 | 76.8 | 27.1 |
+
+### DukeMTMC-reID
+
+| Year-Conference/Journal | Method | Rank@1 | Rank@5 | Rank@10 | mAP |
+| --- | --- | --- | --- | --- | --- |
+| 2019--ICCV| [SSG++](#SSG++)| 76.0 | 85.8 | 89.3 | 60.3 |
+| 2019--ICCV| [UGA](#UGA)    | 75.0 |      |      | 53.3 |
+| 2019--CVPR| [PAUL](#PAUL)  | 72.0 | 82.7 | 86.0 | 53.2 |
+| 2019--PAMI| [UTAL](#UTAL)  | 69.2 |      |      | 46.2 |
+| 2018--arXiv|[UDAP](#UDAP)  | 68.4 | 80.1 | 83.5 | 49.0 |
+| 2019--ICME| [CDs](#CDs)    | 67.2 | 75.9 | 79.4 | 42.7 |
+| 2019--CVPR| [MAR](#MAR)    | 67.1 | 79.8 |      | 48.0 |
+| 2019--CVPR| [ECN](#ECN)    | 63.3 | 75.8 | 80.4 | 40.4 |
+| 2019--ICCV| [PDA-Net](#PDA-Net)| 63.2 | 77.0 | 82.5 | 45.1 |
+| 2018--ECCV| [TAUDL](#TAUDL)| 61.7 |      |      | 43.5 |
+| 2018--CVPR| [ARN](#ARN)    | 60.2 | 73.9 | 79.5 | 33.4 |
+| 2019--ICCV| [CFCL](#CFCL)  | 59.3 | 73.2 | 77.8 | 37.8 |
+| 2019--ICCV| [UCDA-CCE](#UCDA-CCE)| 55.4 ||      | 36.7 |
+| 2019--TIP | [CamStyle](#CamStyle)| 48.4 | 62.5 | 68.9 | 25.1|
+| 2018--ECCV| [HHL](#HHL)    | 46.9 | 61.0 | 66.7 | 27.2 |
+| 2018--CVPR| [SPGAN+LMP](#SPGAN+LMP)| 46.4 | 62.3 | 68.0 | 26.2 |
+| 2018--BMVC| [MMFA](#MMFA)  | 45.3 | 59.8 | 66.3 | 24.7 |
+| 2018--CVPR| [TJ-AIDL](#TJ-AIDL)| 44.3 | 59.6 | 65.0 | 23.0 |
+| 2018--CVPR| [SPGAN](#SPGAN)| 41.1 | 56.6 | 63.0 | 22.3 |
+| 2019--AAAI| [BUC](#BUC)    | 40.4 | 52.5 | 58.2 | 22.1 |
+| 2017--ICCV| [CAMEL](#CAMEL)| 40.3 | 57.6 |      | 19.8 |
+| 2017--ICCV| [CycleGAN](#CycleGAN)| 38.5 ||      | 19.9 |
+| 2018--TOMM| [PUL](#PUL)    | 30.0 | 43.4 | 48.5 | 16.4 |
+| 2018--CVPR| [PTGAN](#PTGAN)| 27.4 | 43.6 | 50.7 | 13.5 |
+
+### PRID2011
+
+| Year-Conference/Journal | Method | Rank@1 | Rank@5 | Rank@10 | Rank@20 |
+| --- | --- | --- | --- | --- | --- |
+| 2019--Access| [proposed](#proposed)| 91.7 | 96.7 |      | 98.7 |
+| 2018--BMVC| [DAL](#DAL)   | 85.3 | 97.0 |      | 99.6 |
+| 2019--TIP | [DGM+](#DGM+) | 81.4 | 95.8 | 98.3 | 99.6 |
+| 2017--ICCV| [SMP*](#SMP*) | 80.9 | 93.3 | 97.8 | 99.4 |
+| 2017--ICCV| [DGM+MLAPG](#DGM+MLAPG)| 73.1 | 92.5 |      | 99.0 |
+| 2017--WACV| [PAM+LOMO](#PAM+LOMO)| 70.6 | 90.2 ||97.1 |
+| 2017--ICCV| [DGM+IDE](#DGM+IDE)| 56.4 | 81.3 | | 96.4 |
+| 2019--PAMI| [UTAL](#UTAL) | 54.7 | 83.1 |      | 96.2 |
+| 2018--ECCV| [RACE](#RACE) | 50.6 | 79.4 |      | 91.8 |
+| 2018--ECCV| [TAUDL](#TAUDL)|49.4 | 78.7 |      | 98.9 |
+| 2018--ECCV| [DAsy](#DAsy) | 43.0 ||||
+| 2017--PR  | [MDTS](#MDTS) | 41.7 | 67.1 | 79.4 | 90.1 |
+
+### iLIDS-VID
+| Year-Conference/Journal | Method | Rank@1 | Rank@5 | Rank@10 | Rank@20 |
+| --- | --- | --- | --- | --- | --- |
+| 2019--Access| [proposed](#proposed)| 79.1 | 93.5 || 97.5 |
+| 2018--BMVC| [DAL](#DAL)   | 56.9 | 80.6 || 91.9 |
+| 2018--ECCV| [DAsy](#DAsy) | 56.5 ||||
+| 2017--ICCV| [SMP*](#SMP*) | 41.7 | 66.3 | 74.1 | 80.7 |
+| 2017--ICCV| [DGM+MLAPG](#DGM+MLAPG)| 37.1 | 61.3 || 82.0 |
+| 2019--PAMI| [UTAL](#UTAL) | 35.1 | 59.0 |      | 83.8 |
+| 2017--WACV| [PAM+LOMO](#PAM+LOMO)| 33.3 | 57.8 ||80.5 |
+| 2017--PR  | [MDTS](#MDTS) | 31.5 | 62.1 | 72.8 | 82.4 |
+| 2018--ECCV| [TAUDL](#TAUDL)|26.7 | 51.3 |      | 82.0 |
+| 2018--ECCV| [RACE](#RACE) | 19.3 | 39.3 |      | 68.7 |
+
+###MARS
+| Year-Conference/Journal | Method | Rank@1 | Rank@5 | Rank@20 | mAP |
+| --- | --- | --- | --- | --- | --- |
+| 2019--PAMI| [UTAL](#UTAL) | 49.9 | 66.4 | 77.8 | 35.2 |
+| 2018--BMVC| [DAL](#DAL)   | 46.8 | 63.9 | 77.5 | 21.4 |
+| 2018--ECCV| [TAUDL](#TAUDL)|43.8 | 59.9 | 72.8 | 29.1 |
+| 2018--ECCV| [RACE](#RACE) | 43.2 | 57.1 | 67.6 | 24.5 |
+| 2019--Access| [proposed](#proposed)| 39.7 | 53.2 | 64.1 | 20.1 |
+| 2017--ICCV| [DGM+MLAPG](#DGM+MLAPG)| 24.6 | 42.6 | 57.2 | 11.8 |
+| 2017--ICCV| [SMP*](#SMP*) | 23.9 | 35.8 | 44.9 | 10.5 |
+
+
+
+
+
