@@ -353,7 +353,7 @@ The section is being continually updated. Note that some values have superscript
 | 2019--CVPR| [IANet](#IANet)           | 75.5 | 46.8 |
 | 2019--CVPR| [DG-Net](#DG-Net)           | **77.2** | **52.3** |
 
-### UDA
+## UDA
 
 ### Market-1501
 
@@ -443,7 +443,7 @@ The section is being continually updated. Note that some values have superscript
 | 2018--ECCV| [TAUDL](#TAUDL)|26.7 | 51.3 |      | 82.0 |
 | 2018--ECCV| [RACE](#RACE) | 19.3 | 39.3 |      | 68.7 |
 
-###MARS
+### MARS
 | Year-Conference/Journal | Method | Rank@1 | Rank@5 | Rank@20 | mAP |
 | --- | --- | --- | --- | --- | --- |
 | 2019--PAMI| [UTAL](#UTAL) | 49.9 | 66.4 | 77.8 | 35.2 |
@@ -453,8 +453,3 @@ The section is being continually updated. Note that some values have superscript
 | 2019--Access| [proposed](#proposed)| 39.7 | 53.2 | 64.1 | 20.1 |
 | 2017--ICCV| [DGM+MLAPG](#DGM+MLAPG)| 24.6 | 42.6 | 57.2 | 11.8 |
 | 2017--ICCV| [SMP*](#SMP*) | 23.9 | 35.8 | 44.9 | 10.5 |
-
-
-
-
-
