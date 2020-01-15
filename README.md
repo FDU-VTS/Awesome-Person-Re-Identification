@@ -52,8 +52,9 @@ If you have any problems, suggestions or improvements, please submit the issue o
 | [MARS](http://www.liangzheng.com.cn/Project/project_mars.html)                      | 2016             | 1261         | 6           | 1,191,003  |
 | [DukeMTMC-reID](https://github.com/layumi/DukeMTMC-reID_baseline) (offline)             | 2017             | 1812         | 8           | 36441    |                       |
 | [Airport](http://www.northeastern.edu/alert/transitioning-technology/alert-datasets/alert-airport-re-identification-dataset/)                   | 2017             | 9651         | 6           | 39902    |
-| [MSMT17](http://www.pkuvmc.com/publications/msmt17.html)                    | 2018             | 4101         | 15          | 126441   |
+| [MSMT17](http://www.pkuvmc.com/dataset.html)                    | 2018             | 4101         | 15          | 126441   |
 | [RPIfield](https://drive.google.com/file/d/1GO1zm7vCAJwXgJtoFyUs367_Knz8Ev0A/view?usp=sharing)   | 2018      | 112       | 12        | 601,581       |
+| [LS-VID](http://www.pkuvmc.com/dataset.html)   | 2019      | 3,772       | 15        | 2,982,685       |
 
 ## Papers
 
@@ -214,7 +215,7 @@ Re-Identification (**AAAI2019**) [[arxiv](https://arxiv.org/abs/1901.06140)] [[g
 - <a name=""></a> Omni-Scale Feature Learning for Person Re-Identification (**ICCV2019**) [[paper](http://openaccess.thecvf.com/content_ICCV_2019/html/Zhou_Omni-Scale_Feature_Learning_for_Person_Re-Identification_ICCV_2019_paper.html)] [[arxiv](https://arxiv.org/abs/1905.00953)]
 - <a name=""></a> Auto-ReID: Searching for a Part-Aware ConvNet for Person Re-Identification (**ICCV2019**) [[paper](http://openaccess.thecvf.com/content_ICCV_2019/html/Quan_Auto-ReID_Searching_for_a_Part-Aware_ConvNet_for_Person_Re-Identification_ICCV_2019_paper.html)] [[arxiv](https://arxiv.org/abs/1903.09776)]
 - <a name=""></a> Second-Order Non-Local Attention Networks for Person Re-Identification (**ICCV2019**) [[paper](http://openaccess.thecvf.com/content_ICCV_2019/html/Xia_Second-Order_Non-Local_Attention_Networks_for_Person_Re-Identification_ICCV_2019_paper.html)] [[arxiv](https://arxiv.org/abs/1909.00295)]
-- <a name=""></a> Global-Local Temporal Representations for Video Person Re-Identification (**ICCV2019**) [[paper](http://openaccess.thecvf.com/content_ICCV_2019/html/Li_Global-Local_Temporal_Representations_for_Video_Person_Re-Identification_ICCV_2019_paper.html)] [[arxiv](https://arxiv.org/abs/1908.10049)]
+- <a name=""></a> Global-Local Temporal Representations for Video Person Re-Identification (**ICCV2019**) [[paper](http://openaccess.thecvf.com/content_ICCV_2019/html/Li_Global-Local_Temporal_Representations_for_Video_Person_Re-Identification_ICCV_2019_paper.html)] [[arxiv](https://arxiv.org/abs/1908.10049)] [[github](https://github.com/kanei1024/GLTR)]
 - <a name=""></a> Spectral Feature Transformation for Person Re-Identification (**ICCV2019**) [[paper](http://openaccess.thecvf.com/content_ICCV_2019/html/Luo_Spectral_Feature_Transformation_for_Person_Re-Identification_ICCV_2019_paper.html)] [[arxiv](https://arxiv.org/abs/1811.11405)]
 - <a name=""></a> View Confusion Feature Learning for Person Re-Identification (**ICCV2019**) [[paper](http://openaccess.thecvf.com/content_ICCV_2019/html/Liu_View_Confusion_Feature_Learning_for_Person_Re-Identification_ICCV_2019_paper.html)]
 - <a name=""></a> MVP Matching: A Maximum-Value Perfect Matching for Mining Hard Samples, With Application to Person Re-Identification (**ICCV2019**) [[paper](http://openaccess.thecvf.com/content_ICCV_2019/html/Sun_MVP_Matching_A_Maximum-Value_Perfect_Matching_for_Mining_Hard_Samples_ICCV_2019_paper.html)]
