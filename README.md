@@ -8,8 +8,10 @@ If you have any problems, suggestions or improvements, please submit the issue o
 * [Leaderboard](#leaderboard)
 
 
-<!-- ### Code
-- [[C^3 Framework](https://github.com/gjy3035/C-3-Framework)] An open-source PyTorch code for crowd counting, which is released. -->
+### Code
+- [[L1aoXingyu](https://github.com/layumi/Person_reID_baseline_pytorch)] SOTA ReID Baseline
+- [[michuanhaohao](https://github.com/michuanhaohao/reid-strong-baseline)] Bag of Tricks and A Strong Baseline for Deep Person Re-identification
+- [[layumi](https://github.com/michuanhaohao/reid-strong-baseline)] A tiny, friendly, strong pytorch implement of person re-identification baseline
 
 <!-- ### Technical blog
 - [2019.05] [Chinese Blog] C^3 Framework系列之一：一个基于PyTorch的开源人群计数框架 [[Link](https://zhuanlan.zhihu.com/p/65650998)]
@@ -47,7 +49,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
 | [PKU-Reid](https://github.com/charliememory/PKU-Reid-Dataset)                  | 2016             | 114          | 2           | 1824     |
 | [PRW](http://www.liangzheng.com.cn/Project/project_prw.html)                       | 2016             | 932          | 6           | 34,304    |
 | [CUHK-SYSU](http://www.ee.cuhk.edu.hk/~xgwang/PS/dataset.html) | 2016             | 8,432       | -           | 18,184    |                    |
-| [MARS](http://www.liangzheng.com.cn/Project/project_mars.html)                      | 2016             | 1261         | 6           | 1191003  |
+| [MARS](http://www.liangzheng.com.cn/Project/project_mars.html)                      | 2016             | 1261         | 6           | 1,191,003  |
 | [DukeMTMC-reID](https://github.com/layumi/DukeMTMC-reID_baseline) (offline)             | 2017             | 1812         | 8           | 36441    |                       |
 | [Airport](http://www.northeastern.edu/alert/transitioning-technology/alert-datasets/alert-airport-re-identification-dataset/)                   | 2017             | 9651         | 6           | 39902    |
 | [MSMT17](http://www.pkuvmc.com/publications/msmt17.html)                    | 2018             | 4101         | 15          | 126441   |
@@ -261,7 +263,7 @@ for Person Re-Identification (**ACMMM2018**) [[paper](https://dl.acm.org/citatio
 - <a name=""></a> Maximum Margin Metric Learning Over Discriminative Nullspace for Person Re-identification (**ECCV2018**) [[paper](http://openaccess.thecvf.com/content_ECCV_2018/html/T_M_Feroz_Ali_Maximum_Margin_Metric_ECCV_2018_paper.html)]
 - <a name=""></a> RCAA: Relational Context-Aware Agents for Person Search (**ECCV2018**) [[paper](http://openaccess.thecvf.com/content_ECCV_2018/html/Xiaojun_Chang_RCAA_Relational_Context-Aware_ECCV_2018_paper.html)]
 - <a name=""></a> Generalizing A Person Retrieval Model Hetero- and Homogeneously (**ECCV2018**) [[paper](http://openaccess.thecvf.com/content_ECCV_2018/html/Zhun_Zhong_Generalizing_A_Person_ECCV_2018_paper.html)]
-- <a name=""></a> Person Search in Videos with One Portrait Through Visual and Temporal Links (**ECCV2018**) [[paper](http://openaccess.thecvf.com/content_ECCV_2018/html/Qingqiu_Huang_Person_Search_in_ECCV_2018_paper.html)]
+- <a name=""></a> Person Search in Videos with One Portrait Through Visual and Temporal Links (**ECCV2018**) [[paper](http://openaccess.thecvf.com/content_ECCV_2018/html/Qingqiu_Huang_Person_Search_in_ECCV_2018_paper.html)] [[github](https://github.com/hqqasw/person-search-PPCC)]
 - <a name=""></a> Person Search by Multi-Scale Matching (**ECCV2018**) [[paper](http://openaccess.thecvf.com/content_ECCV_2018/html/Xu_Lan_Person_Search_by_ECCV_2018_paper.html)]
 - <a name=""></a> Person Re-identification with Deep Similarity-Guided Graph Neural Network (**ECCV2018**) [[paper](http://openaccess.thecvf.com/content_ECCV_2018/html/Yantao_Shen_Person_Re-identification_with_ECCV_2018_paper.html)]
 - <a name="PN-GAN"></a> **[PN-GAN]** Pose-Normalized Image Generation for Person Re-identification (**ECCV2018**) [[paper](http://openaccess.thecvf.com/content_ECCV_2018/html/Xuelin_Qian_Pose-Normalized_Image_Generation_ECCV_2018_paper.html)]
