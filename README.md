@@ -56,20 +56,32 @@ If you have any problems, suggestions or improvements, please submit the issue o
 ## Papers
 
 ### arXiv papers
-This section only includes the last ten papers since 2018 in [arXiv.org](arXiv.org). Previous papers will be hidden using  ```<!--...-->```. If you want to view them, please open the [raw file](https://raw.githubusercontent.com/gjy3035/Awesome-Crowd-Counting/master/README.md) to read the source code. Note that all unpublished arXiv papers are not included into [the leaderboard of performance](#performance).
+This section only includes the last ten papers since 2019 in [arXiv.org](arXiv.org). Previous papers will be hidden using  ```<!--...-->```. If you want to view them, please open the [raw file](https://raw.githubusercontent.com/FDU-VTS/Awesome-Person-Re-Identification/master/README.md) to read the source code. Note that all unpublished arXiv papers are not included into [the leaderboard of performance](#performance).
 
-- <a name=""></a> Orthogonal Center Learning with Subspace Masking for Person Re-Identification [[paper](https://arxiv.org/pdf/1908.10535.pdf)]
+- <a name=""></a> Unsupervised Domain Adaptation in Person re-ID via k-Reciprocal Clustering and Large-Scale Heterogeneous Environment Synthesis [[paper](https://arxiv.org/abs/2001.04928)]
+- <a name=""></a> Memorizing Comprehensively to Learn Adaptively: Unsupervised Cross-Domain Person Re-ID with Multi-level Memory [[paper](https://arxiv.org/abs/2001.04123 )]
+- <a name=""></a> Mutual Mean-Teaching: Pseudo Label Refinery for Unsupervised Domain Adaptation on Person Re-identification [[paper](https://arxiv.org/abs/2001.01526)]
+- <a name=""></a> Unsupervised Few-shot Learning via Self-supervised Training [[paper](https://arxiv.org/abs/1912.12178 )]
+- <a name=""></a> Ranking and Classification driven Feature Learning for Person Re_identification [[paper](https://arxiv.org/abs/1912.11630)]
+- <a name=""></a> Ordered or Orderless: A Revisit for Video based Person Re-Identification [[paper](https://arxiv.org/abs/1912.11236)]
+- <a name=""></a> AANet: Attribute Attention Network for Person Re-Identifications [[paper](https://arxiv.org/abs/1912.09021)]
+- <a name=""></a> In Defense of the Triplet Loss Again: Learning Robust Person Re-Identification with Fast Approximated Triplet Loss and Label Distillation [[paper](https://arxiv.org/abs/1912.07863)]
+- <a name=""></a> Progressive Learning Algorithm for Efficient Person Re-Identification [[paper](https://arxiv.org/abs/1912.07447)]
+- <a name=""></a> Occlusion-robust Online Multi-object Visual Tracking using a GM-PHD Filter with a CNN-based Re-identification [[paper](https://arxiv.org/abs/1912.05949)]
+
+<!--- <a name=""></a> Orthogonal Center Learning with Subspace Masking for Person Re-Identification [[paper](https://arxiv.org/pdf/1908.10535.pdf)]
 - <a name=""></a> CDPM: Convolutional Deformable Part Models for Person Re-identification [[paper](https://arxiv.org/abs/1906.04976)]
 - <a name=""></a> Rethinking Person Re-Identification with Confidence [[paper](https://arxiv.org/abs/1906.04692)]
 - <a name=""></a> Omni-Scale Feature Learning for Person Re-Identification [[paper](https://arxiv.org/abs/1905.00953)]
 - <a name=""></a> Group Re-Identification with Multi-grained Matching and Integration [[paper](https://arxiv.org/abs/1905.07108)]
 - <a name=""></a> HPILN: A feature learning framework for cross-modality person re-identification [[paper](https://arxiv.org/abs/1906.03142)]
 - <a name=""></a> PAC-GAN: An Effective Pose Augmentation Scheme for Unsupervised Cross-View Person Re-identification [[paper](https://arxiv.org/pdf/1906.01792.pdf)]
-- <a name=""></a> Towards better Validity: Dispersion based Clustering for Unsupervised Person Re-identification [[paper](https://arxiv.org/abs/1906.01308)] [[github](https://github.com/gddingcs/Dispersion-based-Clustering)]
+- <a name=""></a> Towards better Validity: Dispersion based Clustering for Unsupervised Person Re-identification [[paper](https://arxiv.org/abs/1906.01308)] [[github](https://github.com/gddingcs/Dispersion-based-Clustering)]-->
 
 
 
 ### Survey
+- <a name=""></a> Deep Learning for Person Re-identification: A Survey and Outlook (**arXiv**) [[arxiv](https://arxiv.org/abs/2001.04193)]
 - <a name=""></a> A Survey of Open-World Person Re-identification (**T-CSVT2019**) [[paper](https://ieeexplore.ieee.org/abstract/document/8640834)]
 - <a name=""></a> A Systematic Evaluation and Benchmark for Person Re-Identification: Features, Metrics, and Datasets **(T-PAMI2018)** [[paper](https://ieeexplore.ieee.org/document/8294254/)][[github](https://github.com/RSL-NEU/person-reid-benchmark)] [[arxiv](https://arxiv.org/abs/1605.09653)]
 - <a name=""></a> Person Re-identification: Past, Present and Future (**arXiv2016**) [[arxiv](https://arxiv.org/abs/1610.02984)]
