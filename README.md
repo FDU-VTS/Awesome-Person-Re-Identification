@@ -71,7 +71,7 @@ This section only includes the last ten papers since 2019 in [arXiv.org](arXiv.o
 - <a name=""></a> Progressive Learning Algorithm for Efficient Person Re-Identification [[paper](https://arxiv.org/abs/1912.07447)]
 - <a name=""></a> Occlusion-robust Online Multi-object Visual Tracking using a GM-PHD Filter with a CNN-based Re-identification [[paper](https://arxiv.org/abs/1912.05949)]
 
-<!--- <a name=""></a> Orthogonal Center Learning with Subspace Masking for Person Re-Identification [[paper](https://arxiv.org/pdf/1908.10535.pdf)]
+<!-- - <a name=""></a> Orthogonal Center Learning with Subspace Masking for Person Re-Identification [[paper](https://arxiv.org/pdf/1908.10535.pdf)]
 - <a name=""></a> CDPM: Convolutional Deformable Part Models for Person Re-identification [[paper](https://arxiv.org/abs/1906.04976)]
 - <a name=""></a> Rethinking Person Re-Identification with Confidence [[paper](https://arxiv.org/abs/1906.04692)]
 - <a name=""></a> Omni-Scale Feature Learning for Person Re-Identification [[paper](https://arxiv.org/abs/1905.00953)]
