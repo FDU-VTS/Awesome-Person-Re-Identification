@@ -55,24 +55,32 @@ If you have any problems, suggestions or improvements, please submit the issue o
 | [MSMT17](http://www.pkuvmc.com/dataset.html)                    | 2018             | 4101         | 15          | 126441   |
 | [RPIfield](https://drive.google.com/file/d/1GO1zm7vCAJwXgJtoFyUs367_Knz8Ev0A/view?usp=sharing)   | 2018      | 112       | 12        | 601,581       |
 | [LS-VID](http://www.pkuvmc.com/dataset.html)   | 2019      | 3,772       | 15        | 2,982,685       |
+| [PersonX](https://github.com/sxzrt/Dissecting-Person-Re-ID-from-the-Viewpoint-of-Viewpoint)   | 2019      | 1,266       | 6        | 273,456       |
 
 ## Papers
 
 ### arXiv papers
 This section only includes the last ten papers since 2019 in [arXiv.org](arXiv.org). Previous papers will be hidden using  ```<!--...-->```. If you want to view them, please open the [raw file](https://raw.githubusercontent.com/FDU-VTS/Awesome-Person-Re-Identification/master/README.md) to read the source code. Note that all unpublished arXiv papers are not included into [the leaderboard of performance](#performance).
 
+- <a name=""></a> An Empirical Study of Person Re-Identification with Attributes [[paper](https://arxiv.org/abs/2002.03752)]
+- <a name=""></a> Adaptive Deep Metric Embeddings for Person Re-Identification under Occlusions [[paper](https://arxiv.org/abs/2002.02603)]
+- <a name=""></a> Person Re-identification by Contour Sketch under Moderate Clothing Change [[paper](https://arxiv.org/abs/2002.02295)]
+- <a name=""></a> Illumination adaptive person reid based on teacher-student model and adversarial training [[paper](https://arxiv.org/abs/2002.01625)]
+- <a name=""></a> Disassembling the Dataset: A Camera Alignment Mechanism for Multiple Tasks in Person Re-identification [[paper](https://arxiv.org/abs/2001.08680)]
+- <a name=""></a> Learning Diverse Features with Part-Level Resolution for Person Re-Identification [[paper](https://arxiv.org/abs/2001.07442)]
+- <a name=""></a> VMRFANet:View-Specific Multi-Receptive Field Attention Network for Person Re-identification [[paper](https://arxiv.org/abs/2001.07354)]
 - <a name=""></a> Unsupervised Domain Adaptation in Person re-ID via k-Reciprocal Clustering and Large-Scale Heterogeneous Environment Synthesis [[paper](https://arxiv.org/abs/2001.04928)]
 - <a name=""></a> Memorizing Comprehensively to Learn Adaptively: Unsupervised Cross-Domain Person Re-ID with Multi-level Memory [[paper](https://arxiv.org/abs/2001.04123 )]
 - <a name=""></a> Mutual Mean-Teaching: Pseudo Label Refinery for Unsupervised Domain Adaptation on Person Re-identification [[paper](https://arxiv.org/abs/2001.01526)]
-- <a name=""></a> Unsupervised Few-shot Learning via Self-supervised Training [[paper](https://arxiv.org/abs/1912.12178 )]
+
+<!--- <a name=""></a> Unsupervised Few-shot Learning via Self-supervised Training [[paper](https://arxiv.org/abs/1912.12178 )]
 - <a name=""></a> Ranking and Classification driven Feature Learning for Person Re_identification [[paper](https://arxiv.org/abs/1912.11630)]
 - <a name=""></a> Ordered or Orderless: A Revisit for Video based Person Re-Identification [[paper](https://arxiv.org/abs/1912.11236)]
 - <a name=""></a> AANet: Attribute Attention Network for Person Re-Identifications [[paper](https://arxiv.org/abs/1912.09021)]
 - <a name=""></a> In Defense of the Triplet Loss Again: Learning Robust Person Re-Identification with Fast Approximated Triplet Loss and Label Distillation [[paper](https://arxiv.org/abs/1912.07863)]
 - <a name=""></a> Progressive Learning Algorithm for Efficient Person Re-Identification [[paper](https://arxiv.org/abs/1912.07447)]
 - <a name=""></a> Occlusion-robust Online Multi-object Visual Tracking using a GM-PHD Filter with a CNN-based Re-identification [[paper](https://arxiv.org/abs/1912.05949)]
-
-<!-- - <a name=""></a> Orthogonal Center Learning with Subspace Masking for Person Re-Identification [[paper](https://arxiv.org/pdf/1908.10535.pdf)]
+- <a name=""></a> Orthogonal Center Learning with Subspace Masking for Person Re-Identification [[paper](https://arxiv.org/pdf/1908.10535.pdf)]
 - <a name=""></a> CDPM: Convolutional Deformable Part Models for Person Re-identification [[paper](https://arxiv.org/abs/1906.04976)]
 - <a name=""></a> Rethinking Person Re-Identification with Confidence [[paper](https://arxiv.org/abs/1906.04692)]
 - <a name=""></a> Omni-Scale Feature Learning for Person Re-Identification [[paper](https://arxiv.org/abs/1905.00953)]
@@ -81,7 +89,6 @@ This section only includes the last ten papers since 2019 in [arXiv.org](arXiv.o
 - <a name=""></a> PAC-GAN: An Effective Pose Augmentation Scheme for Unsupervised Cross-View Person Re-identification [[paper](https://arxiv.org/pdf/1906.01792.pdf)]
 - <a name=""></a> Towards better Validity: Dispersion based Clustering for Unsupervised Person Re-identification [[paper](https://arxiv.org/abs/1906.01308)]
 -->
-
 
 
 ### Survey
