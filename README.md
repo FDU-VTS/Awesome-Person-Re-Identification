@@ -102,6 +102,9 @@ This section only includes the last ten papers since 2019 in [arXiv.org](arXiv.o
 - <a name=""></a> Intelligent multi-camera video surveillance: A review (**PR Letters2013**) [[paper](https://www.sciencedirect.com/science/article/pii/S016786551200219X)]
 
 ### Methods dealing with the lack of labelled data
+- <a name=""></a>  Asymetric Co-Teaching for Unsupervised Cross Domain Person Re-Identification **(AAAI2020)** [[arxiv](https://arxiv.org/abs/1912.01349)]
+- <a name=""></a> Domain Adaptive Attention Learning for Unsupervised Person Re-Identification **(AAAI2020)** 
+- <a name=""></a> Tracklet Self-Supervised Learning for Unsupervised Person Re-Identification **(AAAI2020)** [[paper](http://www.eecs.qmul.ac.uk/~sgg/papers/WuEtAl_AAAI2020.pdf)]
 - <a name="SHRED"></a> **[SHRED]** Unsupervised Domain Adaptation in Person re-ID via k-Reciprocal Clustering and Large-Scale Heterogeneous Environment Synthesis **(WACV2020)** [[paper](http://openaccess.thecvf.com/content_WACV_2020/html/Kumar_Unsupervised_Domain_Adaptation_in_Person_re-ID_via_k-Reciprocal_Clustering_and_WACV_2020_paper.html)]
 - <a name="CamStyle"></a> **[CamStyle]** CamStyle: A Novel Data Augmentation Method for Person Re-Identification (**TIP2019**) [[paper](https://ieeexplore.ieee.org/document/8485427/)][[github](https://github.com/zhunzhong07/CamStyle)]
 - <a name="DGM+"></a> **[DGM+]** Dynamic Graph Co-Matching for Unsupervised Video-Based Person Re-Identification **(TIP2019)** [[paper](https://ieeexplore.ieee.org/document/8611378)]
@@ -146,6 +149,17 @@ This section only includes the last ten papers since 2019 in [arXiv.org](arXiv.o
 - <a name="MDTS"></a> **[MDTS]** Person re-identification by unsupervised video matching (**PR2017**) [[paper](https://arxiv.org/abs/1611.08512)]
 
 ### 2020
+- <a name=""></a> Uncertainty-aware Multi-shot Knowledge Distillation for Image-based Object Re-identification **(AAAI2020)** [[arxiv](https://arxiv.org/abs/2001.05197)]
+- <a name=""></a> Infrared-Visible Cross-Modal Person Re-Identification with an X Modality **(AAAI2020)** 
+- <a name=""></a>  Single Camera Training for Person Re-identification **(AAAI2020)** [[arxiv](https://arxiv.org/abs/1909.10848)]
+- <a name=""></a>  Cross-Modality Paired-Images Generation for RGB-Infrared Person Re-Identification **(AAAI2020)** [[arxiv](https://arxiv.org/abs/2002.04114)]
+- <a name=""></a>  Relation-Guided Spatial Attention and Temporal Refinement for Video-based Person Re-Identification **(AAAI2020)** 
+- <a name=""></a>  Semantics-Aligned Representation Learning for Person Re-identification **(AAAI2020)** [[arxiv](https://arxiv.org/abs/1905.13143)]
+- <a name=""></a>  Relation Network for Person Re-identification **(AAAI2020)** [[arxiv](https://arxiv.org/abs/1911.09318)]
+- <a name=""></a> Appearance and Motion Enhancement for Video-based Person Re-identification **(AAAI2020)** 
+- <a name=""></a>  Rethinking Temporal Fusion for Video-based Person Re-identification on Semantic and Time Aspect **(AAAI2020)** [[arxiv](https://arxiv.org/abs/1911.12512)]
+- <a name=""></a> Frame-Guided Region-Aligned Representation for Video Person Re-identification **(AAAI2020)** 
+- <a name=""></a> Viewpoint-Aware Loss with Angular Regularization for Person Re-Identification **(AAAI2020)** 
 - <a name=""></a> Semantic Consistency and Identity Mapping Multi-Component Generative Adversarial Network for Person Re-Identification **(WACV2020)** [[paper](http://openaccess.thecvf.com/content_WACV_2020/html/Khatun_Semantic_Consistency_and_Identity_Mapping_Multi-Component_Generative_Adversarial_Network_for_WACV_2020_paper.html)]
 - <a name="SCR"></a> **[SCR]** Learning Discriminative and Generalizable Representations by Spatial-Channel Partition for Person Re-Identification **(WACV2020)** [[paper](http://openaccess.thecvf.com/content_WACV_2020/html/Chen_Learning_Discriminative_and_Generalizable_Representations_by_Spatial-Channel_Partition_for_Person_WACV_2020_paper.html)]
 - <a name=""></a> Video Person Re-Identification using Learned Clip Similarity Aggregation **(WACV2020)** [[paper](http://openaccess.thecvf.com/content_WACV_2020/html/Matiyali_Video_Person_Re-Identification_using_Learned_Clip_Similarity_Aggregation_WACV_2020_paper.html)]
