@@ -3,8 +3,11 @@
 If you have any problems, suggestions or improvements, please submit the issue or PR.
 
 Welcome to join ByteDance!
+
 欢迎加入字节跳动！
+
 字节跳动校招内推码: C3FUKKT 
+
 投递链接: https://job.toutiao.com/s/JNQpE71
 
 ## Contents
