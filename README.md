@@ -100,6 +100,7 @@ This section only includes the last ten papers since 2019 in [arXiv.org](arXiv.o
 
 
 ### Survey
+- <a name=""></a> Person search: New paradigm of person re-identification: A survey and outlook of recent works (**IVC2020**) [[paper](https://www.sciencedirect.com/science/article/pii/S0262885620301025)]
 - <a name=""></a> Deep Learning for Person Re-identification: A Survey and Outlook (**arXiv**) [[arxiv](https://arxiv.org/abs/2001.04193)]
 - <a name=""></a> A Survey of Open-World Person Re-identification (**T-CSVT2019**) [[paper](https://ieeexplore.ieee.org/abstract/document/8640834)]
 - <a name=""></a> A Systematic Evaluation and Benchmark for Person Re-Identification: Features, Metrics, and Datasets **(T-PAMI2018)** [[paper](https://ieeexplore.ieee.org/document/8294254/)][[github](https://github.com/RSL-NEU/person-reid-benchmark)] [[arxiv](https://arxiv.org/abs/1605.09653)]
