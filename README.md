@@ -64,39 +64,10 @@ Welcome to join ByteDance!
 | [RPIfield](https://drive.google.com/file/d/1GO1zm7vCAJwXgJtoFyUs367_Knz8Ev0A/view?usp=sharing)   | 2018      | 112       | 12        | 601,581       |
 | [LS-VID](http://www.pkuvmc.com/dataset.html)   | 2019      | 3,772       | 15        | 2,982,685       |
 | [PersonX](https://github.com/sxzrt/Dissecting-Person-Re-ID-from-the-Viewpoint-of-Viewpoint)   | 2019      | 1,266       | 6        | 273,456       |
+| [COCAS](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yu_COCAS_A_Large-Scale_Clothes_Changing_Person_Dataset_for_Re-Identification_CVPR_2020_paper.pdf)   | 2020      | 5,266       | -        | 62,382       |
 
 ## Papers
 
-### arXiv papers
-This section only includes the last ten papers since 2019 in [arXiv.org](arXiv.org). Previous papers will be hidden using  ```<!--...-->```. If you want to view them, please open the [raw file](https://raw.githubusercontent.com/FDU-VTS/Awesome-Person-Re-Identification/master/README.md) to read the source code. Note that all unpublished arXiv papers are not included into [the leaderboard of performance](#performance).
-
-- <a name=""></a> An Empirical Study of Person Re-Identification with Attributes [[paper](https://arxiv.org/abs/2002.03752)]
-- <a name=""></a> Adaptive Deep Metric Embeddings for Person Re-Identification under Occlusions [[paper](https://arxiv.org/abs/2002.02603)]
-- <a name=""></a> Person Re-identification by Contour Sketch under Moderate Clothing Change [[paper](https://arxiv.org/abs/2002.02295)]
-- <a name=""></a> Illumination adaptive person reid based on teacher-student model and adversarial training [[paper](https://arxiv.org/abs/2002.01625)]
-- <a name=""></a> Disassembling the Dataset: A Camera Alignment Mechanism for Multiple Tasks in Person Re-identification [[paper](https://arxiv.org/abs/2001.08680)]
-- <a name=""></a> Learning Diverse Features with Part-Level Resolution for Person Re-Identification [[paper](https://arxiv.org/abs/2001.07442)]
-- <a name=""></a> VMRFANet:View-Specific Multi-Receptive Field Attention Network for Person Re-identification [[paper](https://arxiv.org/abs/2001.07354)]
-- <a name=""></a> Unsupervised Domain Adaptation in Person re-ID via k-Reciprocal Clustering and Large-Scale Heterogeneous Environment Synthesis [[paper](https://arxiv.org/abs/2001.04928)]
-- <a name=""></a> Memorizing Comprehensively to Learn Adaptively: Unsupervised Cross-Domain Person Re-ID with Multi-level Memory [[paper](https://arxiv.org/abs/2001.04123 )]
-- <a name=""></a> Mutual Mean-Teaching: Pseudo Label Refinery for Unsupervised Domain Adaptation on Person Re-identification [[paper](https://arxiv.org/abs/2001.01526)]
-
-<!--- <a name=""></a> Unsupervised Few-shot Learning via Self-supervised Training [[paper](https://arxiv.org/abs/1912.12178 )]
-- <a name=""></a> Ranking and Classification driven Feature Learning for Person Re_identification [[paper](https://arxiv.org/abs/1912.11630)]
-- <a name=""></a> Ordered or Orderless: A Revisit for Video based Person Re-Identification [[paper](https://arxiv.org/abs/1912.11236)]
-- <a name=""></a> AANet: Attribute Attention Network for Person Re-Identifications [[paper](https://arxiv.org/abs/1912.09021)]
-- <a name=""></a> In Defense of the Triplet Loss Again: Learning Robust Person Re-Identification with Fast Approximated Triplet Loss and Label Distillation [[paper](https://arxiv.org/abs/1912.07863)]
-- <a name=""></a> Progressive Learning Algorithm for Efficient Person Re-Identification [[paper](https://arxiv.org/abs/1912.07447)]
-- <a name=""></a> Occlusion-robust Online Multi-object Visual Tracking using a GM-PHD Filter with a CNN-based Re-identification [[paper](https://arxiv.org/abs/1912.05949)]
-- <a name=""></a> Orthogonal Center Learning with Subspace Masking for Person Re-Identification [[paper](https://arxiv.org/pdf/1908.10535.pdf)]
-- <a name=""></a> CDPM: Convolutional Deformable Part Models for Person Re-identification [[paper](https://arxiv.org/abs/1906.04976)]
-- <a name=""></a> Rethinking Person Re-Identification with Confidence [[paper](https://arxiv.org/abs/1906.04692)]
-- <a name=""></a> Omni-Scale Feature Learning for Person Re-Identification [[paper](https://arxiv.org/abs/1905.00953)]
-- <a name=""></a> Group Re-Identification with Multi-grained Matching and Integration [[paper](https://arxiv.org/abs/1905.07108)]
-- <a name=""></a> HPILN: A feature learning framework for cross-modality person re-identification [[paper](https://arxiv.org/abs/1906.03142)]
-- <a name=""></a> PAC-GAN: An Effective Pose Augmentation Scheme for Unsupervised Cross-View Person Re-identification [[paper](https://arxiv.org/pdf/1906.01792.pdf)]
-- <a name=""></a> Towards better Validity: Dispersion based Clustering for Unsupervised Person Re-identification [[paper](https://arxiv.org/abs/1906.01308)]
--->
 
 
 ### Survey
@@ -111,6 +82,10 @@ This section only includes the last ten papers since 2019 in [arXiv.org](arXiv.o
 - <a name=""></a> Intelligent multi-camera video surveillance: A review (**PR Letters2013**) [[paper](https://www.sciencedirect.com/science/article/pii/S016786551200219X)]
 
 ### Methods dealing with the lack of labelled data
+- <a name=""></a> Unsupervised Person Re-Identification via Softened Similarity Learning
+ **(CVPR2020)** [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Lin_Unsupervised_Person_Re-Identification_via_Softened_Similarity_Learning_CVPR_2020_paper.pdf)]
+- <a name=""></a> Unsupervised Person Re-identification via Multi-label Classification
+ **(CVPR2020)** [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Unsupervised_Person_Re-Identification_via_Multi-Label_Classification_CVPR_2020_paper.pdf)]
 - <a name=""></a>  Asymetric Co-Teaching for Unsupervised Cross Domain Person Re-Identification **(AAAI2020)** [[arxiv](https://arxiv.org/abs/1912.01349)]
 - <a name=""></a> Domain Adaptive Attention Learning for Unsupervised Person Re-Identification **(AAAI2020)** 
 - <a name=""></a> Tracklet Self-Supervised Learning for Unsupervised Person Re-Identification **(AAAI2020)** [[paper](http://www.eecs.qmul.ac.uk/~sgg/papers/WuEtAl_AAAI2020.pdf)]
@@ -158,6 +133,72 @@ This section only includes the last ten papers since 2019 in [arXiv.org](arXiv.o
 - <a name="MDTS"></a> **[MDTS]** Person re-identification by unsupervised video matching (**PR2017**) [[paper](https://arxiv.org/abs/1611.08512)]
 
 ### 2020
+- <a name=""></a> COCAS: A Large-Scale Clothes Changing Person Dataset for Re-Identification **(CVPR2020)** [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yu_COCAS_A_Large-Scale_Clothes_Changing_Person_Dataset_for_Re-Identification_CVPR_2020_paper.pdf)]
+- <a name=""></a> Online Joint Multi-Metric Adaptation From Frequent Sharing-Subset Mining for Person Re-Identification
+ **(CVPR2020)** [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhou_Online_Joint_Multi-Metric_Adaptation_From_Frequent_Sharing-Subset_Mining_for_Person_CVPR_2020_paper.pdf)]
+- <a name=""></a> Style Normalization and Restitution for Generalizable Person Re-Identification
+ **(CVPR2020)** [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Jin_Style_Normalization_and_Restitution_for_Generalizable_Person_Re-Identification_CVPR_2020_paper.pdf)]
+- <a name=""></a> Unsupervised Person Re-Identification via Softened Similarity Learning
+ **(CVPR2020)** [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Lin_Unsupervised_Person_Re-Identification_via_Softened_Similarity_Learning_CVPR_2020_paper.pdf)]
+- <a name=""></a> Transferable, Controllable, and Inconspicuous Adversarial Attacks on Person Re-identification With Deep Mis-Ranking
+ **(CVPR2020)** [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Transferable_Controllable_and_Inconspicuous_Adversarial_Attacks_on_Person_Re-identification_With_CVPR_2020_paper.pdf)]
+- <a name=""></a> Inter-Task Association Critic for Cross-Resolution Person Re-Identification
+ **(CVPR2020)** [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Cheng_Inter-Task_Association_Critic_for_Cross-Resolution_Person_Re-Identification_CVPR_2020_paper.pdf)]
+- <a name=""></a> Learning Multi-Granular Hypergraphs for Video-Based Person Re-Identification
+ **(CVPR2020)** [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yan_Learning_Multi-Granular_Hypergraphs_for_Video-Based_Person_Re-Identification_CVPR_2020_paper.pdf)]
+- <a name=""></a> Relation-Aware Global Attention for Person Re-identification
+ **(CVPR2020)** [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_Relation-Aware_Global_Attention_for_Person_Re-Identification_CVPR_2020_paper.pdf)]
+- <a name=""></a> Spatial-Temporal Graph Convolutional Network for Video-based
+Person Re-identification
+ **(CVPR2020)** [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yang_Spatial-Temporal_Graph_Convolutional_Network_for_Video-Based_Person_Re-Identification_CVPR_2020_paper.pdf)]
+- <a name=""></a> Salience-Guided Cascaded Suppression Network for Person Re-identification
+ **(CVPR2020)** [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_Salience-Guided_Cascaded_Suppression_Network_for_Person_Re-Identification_CVPR_2020_paper.pdf)]
+- <a name=""></a> Bi-directional Interaction Network for Person Search
+ **(CVPR2020)** [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Dong_Bi-Directional_Interaction_Network_for_Person_Search_CVPR_2020_paper.pdf)]
+- <a name=""></a> Instance Guided Proposal Network for Person Search
+ **(CVPR2020)** [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Dong_Instance_Guided_Proposal_Network_for_Person_Search_CVPR_2020_paper.pdf)]
+- <a name=""></a> AD-Cluster: Augmented Discriminative Clustering for Domain Adaptive
+Person Re-identification
+ **(CVPR2020)** [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhai_AD-Cluster_Augmented_Discriminative_Clustering_for_Domain_Adaptive_Person_Re-Identification_CVPR_2020_paper.pdf)]
+- <a name=""></a> Unity Style Transfer for Person Re-Identification
+ **(CVPR2020)** [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Unity_Style_Transfer_for_Person_Re-Identification_CVPR_2020_paper.pdf)]
+- <a name=""></a> High-Order Information Matters: Learning Relation and Topology
+for Occluded Person Re-Identification
+ **(CVPR2020)** [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_High-Order_Information_Matters_Learning_Relation_and_Topology_for_Occluded_Person_CVPR_2020_paper.pdf)]
+- <a name=""></a> Robust Partial Matching for Person Search in the Wild
+ **(CVPR2020)** [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhong_Robust_Partial_Matching_for_Person_Search_in_the_Wild_CVPR_2020_paper.pdf)]
+- <a name=""></a> Weakly Supervised Discriminative Feature Learning with State Information
+for Person Identification
+ **(CVPR2020)** [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yu_Weakly_Supervised_Discriminative_Feature_Learning_With_State_Information_for_Person_CVPR_2020_paper.pdf)]
+- <a name=""></a> Hi-CMD: Hierarchical Cross-Modality Disentanglement for Visible-Infrared
+Person Re-Identification
+ **(CVPR2020)** [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Choi_Hi-CMD_Hierarchical_Cross-Modality_Disentanglement_for_Visible-Infrared_Person_Re-Identification_CVPR_2020_paper.pdf)]
+- <a name=""></a> Learning Longterm Representations for Person Re-Identification
+Using Radio Signals
+ **(CVPR2020)** [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Fan_Learning_Longterm_Representations_for_Person_Re-Identification_Using_Radio_Signals_CVPR_2020_paper.pdf)]
+- <a name=""></a> Camera On-boarding for Person Re-identification using Hypothesis Transfer
+Learning
+ **(CVPR2020)** [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Ahmed_Camera_On-Boarding_for_Person_Re-Identification_Using_Hypothesis_Transfer_Learning_CVPR_2020_paper.pdf)]
+- <a name=""></a> Cross-modality Person re-identification with Shared-Specific Feature Transfer
+ **(CVPR2020)** [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Lu_Cross-Modality_Person_Re-Identification_With_Shared-Specific_Feature_Transfer_CVPR_2020_paper.pdf)]
+- <a name=""></a> Hierarchical Clustering with Hard-batch Triplet Loss for Person
+Re-identification
+ **(CVPR2020)** [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zeng_Hierarchical_Clustering_With_Hard-Batch_Triplet_Loss_for_Person_Re-Identification_CVPR_2020_paper.pdf)]
+- <a name=""></a> Real-world Person Re-Identification via Degradation Invariance Learning
+ **(CVPR2020)** [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Huang_Real-World_Person_Re-Identification_via_Degradation_Invariance_Learning_CVPR_2020_paper.pdf)]
+- <a name=""></a> Unsupervised Person Re-identification via Multi-label Classification
+ **(CVPR2020)** [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Unsupervised_Person_Re-Identification_via_Multi-Label_Classification_CVPR_2020_paper.pdf)]
+- <a name=""></a> Smoothing Adversarial Domain Attack and p-Memory Reconsolidation for
+Cross-Domain Person Re-Identification
+ **(CVPR2020)** [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Smoothing_Adversarial_Domain_Attack_and_P-Memory_Reconsolidation_for_Cross-Domain_Person_CVPR_2020_paper.pdf)]
+- <a name=""></a> Norm-Aware Embedding for Efficient Person Search
+ **(CVPR2020)** [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_Norm-Aware_Embedding_for_Efficient_Person_Search_CVPR_2020_paper.pdf)]
+- <a name=""></a> TCTS: A Task-Consistent Two-stage Framework for Person Search
+ **(CVPR2020)** [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_TCTS_A_Task-Consistent_Two-Stage_Framework_for_Person_Search_CVPR_2020_paper.pdf)]
+- <a name=""></a> Pose-guided Visible Part Matching for Occluded Person ReID
+ **(CVPR2020)** [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Gao_Pose-Guided_Visible_Part_Matching_for_Occluded_Person_ReID_CVPR_2020_paper.pdf)]
+- <a name=""></a> Cross-Modal Cross-Domain Moment Alignment Network for Person Search
+ **(CVPR2020)** [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Jing_Cross-Modal_Cross-Domain_Moment_Alignment_Network_for_Person_Search_CVPR_2020_paper.pdf)]
 - <a name=""></a> Uncertainty-aware Multi-shot Knowledge Distillation for Image-based Object Re-identification **(AAAI2020)** [[arxiv](https://arxiv.org/abs/2001.05197)]
 - <a name=""></a> Infrared-Visible Cross-Modal Person Re-Identification with an X Modality **(AAAI2020)** 
 - <a name=""></a>  Single Camera Training for Person Re-identification **(AAAI2020)** [[arxiv](https://arxiv.org/abs/1909.10848)]
