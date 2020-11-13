@@ -134,9 +134,9 @@ If you have any problems, suggestions or improvements, please submit the issue o
 - <a name=""></a> Unsupervised Person Re-Identification via Softened Similarity Learning
  **(CVPR2020)** [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Lin_Unsupervised_Person_Re-Identification_via_Softened_Similarity_Learning_CVPR_2020_paper.pdf)]
 - <a name=""></a> Transferable, Controllable, and Inconspicuous Adversarial Attacks on Person Re-identification With Deep Mis-Ranking
- **(CVPR2020)****(Oral)** [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Transferable_Controllable_and_Inconspicuous_Adversarial_Attacks_on_Person_Re-identification_With_CVPR_2020_paper.pdf)]
+ **(CVPR2020)(Oral)** [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Transferable_Controllable_and_Inconspicuous_Adversarial_Attacks_on_Person_Re-identification_With_CVPR_2020_paper.pdf)]
 - <a name=""></a> Inter-Task Association Critic for Cross-Resolution Person Re-Identification
- **(CVPR2020)****(Oral)** [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Cheng_Inter-Task_Association_Critic_for_Cross-Resolution_Person_Re-Identification_CVPR_2020_paper.pdf)]
+ **(CVPR2020)(Oral)** [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Cheng_Inter-Task_Association_Critic_for_Cross-Resolution_Person_Re-Identification_CVPR_2020_paper.pdf)]
 - <a name=""></a> Learning Multi-Granular Hypergraphs for Video-Based Person Re-Identification
  **(CVPR2020)** [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yan_Learning_Multi-Granular_Hypergraphs_for_Video-Based_Person_Re-Identification_CVPR_2020_paper.pdf)]
 - <a name=""></a> Relation-Aware Global Attention for Person Re-identification
@@ -149,7 +149,7 @@ Person Re-identification
 - <a name=""></a> Bi-directional Interaction Network for Person Search
  **(CVPR2020)** [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Dong_Bi-Directional_Interaction_Network_for_Person_Search_CVPR_2020_paper.pdf)]
 - <a name=""></a> Instance Guided Proposal Network for Person Search
- **(CVPR2020)****(Oral)** [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Dong_Instance_Guided_Proposal_Network_for_Person_Search_CVPR_2020_paper.pdf)]
+ **(CVPR2020)(Oral)** [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Dong_Instance_Guided_Proposal_Network_for_Person_Search_CVPR_2020_paper.pdf)]
 - <a name=""></a> AD-Cluster: Augmented Discriminative Clustering for Domain Adaptive
 Person Re-identification
  **(CVPR2020)** [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhai_AD-Cluster_Augmented_Discriminative_Clustering_for_Domain_Adaptive_Person_Re-Identification_CVPR_2020_paper.pdf)]
