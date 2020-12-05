@@ -16,7 +16,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
 - [Language Person Search](https://github.com/layumi/Image-Text-Embedding) ![GitHub stars](https://img.shields.io/github/stars/layumi/Image-Text-Embedding.svg?style=flat&label=Star)
 - [DG-Net](https://github.com/NVlabs/DG-Net) ![GitHub stars](https://img.shields.io/github/stars/NVlabs/DG-Net.svg?style=flat&label=Star)
 - [3D Person re-ID](https://github.com/layumi/person-reid-3d) ![GitHub stars](https://img.shields.io/github/stars/layumi/person-reid-3d.svg?style=flat&label=Star)
-- [[L1aoXingyu](https://github.com/layumi/Person_reID_baseline_pytorch)] SOTA ReID Baseline
+- [[L1aoXingyu](https://github.com/JDAI-CV/fast-reid)] FastReID Baseline
 - [[michuanhaohao](https://github.com/michuanhaohao/reid-strong-baseline)] Bag of Tricks and A Strong Baseline for Deep Person Re-identification
 - [[layumi](https://github.com/michuanhaohao/reid-strong-baseline)] A tiny, friendly, strong pytorch implement of person re-identification baseline
 
