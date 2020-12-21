@@ -4,10 +4,13 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 
 ## Contents
+* [Talks](#talks)
 * [Datasets](#datasets)
 * [Papers](#papers)
 * [Leaderboard](#leaderboard)
 
+### Talks
+* [2020年 行人重识别的挑战 与 最新进展 （35页PPT整理）](https://zhuanlan.zhihu.com/p/163255539) [[video]](https://www.bilibili.com/video/BV11K4y1f7eQ)
 
 ### Code
 - [Pedestrian Alignment Network](https://github.com/layumi/Pedestrian_Alignment) ![GitHub stars](https://img.shields.io/github/stars/layumi/Pedestrian_Alignment.svg?style=flat&label=Star)
