@@ -2,6 +2,8 @@
 
 If you have any problems, suggestions or improvements, please submit the issue or PR.
 
+**[2021.12.15] Due to my new research interest -- Gigapixel-Level Analysis, I do not have enough time to maintain this repository. I recommend an active repository created by [Seokeon](https://github.com/bismex/Awesome-person-re-identification).**
+
 
 ## Contents
 * [Talks](#talks)
